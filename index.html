@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset='UTF-8'>
+		<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+		<link rel='stylesheet' href='normalize.css'>
+		<link rel='stylesheet' href='style.css'>
+		<title>Document</title>
+	</head>
+	<body>
+		<script>
+			if (window.matchMedia('(prefers-color-scheme: dark)').matches)
+				document.documentElement.classList.add('dark');
+		</script>
+
+		<div id='app'>
+			<aside id='sidebar'>
+				<div id='sidebar-top'>
+					<h1>
+						<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" stroke="currentcolor" fill="currentcolor"><g fill="none" stroke-linecap="round" stroke-width="2"><path d="m1.05 13.5c1.52-0.0935 3.02-0.383 4.54-0.497 1.82-0.136 3.64-0.208 5.46-0.284 6.52-0.272 13.1-0.362 19.6-0.213 1.99 0.0454 3.97 0.144 5.96 0.213 3.45 0.12 6.92 0.184 10.4 0.497"/><path d="m2.68 35.1h0.709c1.37-0.0473 2.74-0.127 4.11-0.142 2.91-0.0321 5.82 0.0296 8.73 0 6.5-0.066 15-0.401 21.7-0.142 2.64 0.103 5.35 0.709 8.02 0.709"/><path d="m12 1.76c0.0662 8.85 0.426 17.7 0.426 26.5 0 7.77-0.135 5.82-0.071 12.6 0.0356 3.78 0.0498 0.847 0.142 3.33 0.0175 0.473 0.0543 1.07 0 1.56-0.0756 0.68-0.0709 0.175-0.0709 0.426"/><path d="m36.1 1.09c0.219 8.41-0.603 16.8-0.803 25.2-0.113 4.74 0.0263 9.51 0.1 14.2 0.0205 1.31-0.178 2.6-0.1 3.91 0.0256 0.435 0.217 1.93 0.301 2.61"/></g><ellipse fill="currentcolor" cx="18.9" cy="19.9" rx="1.65" ry="1.69"/><ellipse fill="currentcolor" cx="29.1" cy="19.8" rx="1.65" ry="1.69"/><path transform="matrix(-1 0 0 1 47.2 .476)" d="m17.8 25.6c0.236 0.733 0.472 1.47 0.91 2s1.08 0.859 1.75 0.922c0.674 0.0632 1.38-0.139 1.84-0.497 0.455-0.358 0.657-0.872 0.859-1.39m5.36-1.04c-0.236 0.733-0.472 1.47-0.91 2-0.438 0.531-1.08 0.859-1.75 0.922s-1.38-0.139-1.84-0.497c-0.455-0.358-0.657-0.872-0.859-1.39" fill="none" stroke-linecap="round" stroke-width="2"/></svg>
+						wedlis
+					</h1>
+					<input type='text' id='search-input' placeholder='fid sumwed...'>
+				</div>
+				<div id='sidebar-bottom'>
+					<div class='sidebar-row'>
+						<button id='theme-button'>
+							<i id='theme-button-light' data-lucide='sun'></i>
+							<i id='theme-button-dark' data-lucide='moon'></i>
+						</button>
+						<a target='_blank' href='https://github.com/natroute/wedlis/'>
+							<button id='info-button'>
+								<i data-lucide='info'></i>
+							</button>
+						</a>
+					</div>
+					<div class='sidebar-row'>
+						<p><small>by <a class='text-link' href='https://github.com/natroute/'>natroute</a></small></p>
+					</div>
+				</div>
+			</aside>
+			<main>
+				<div id='words'></div>
+			</main>
+		</div>
+
+		<script type='module' src='main.js'></script>
+		<script src='https://unpkg.com/lucide@0.575.0/dist/umd/lucide.min.js'></script>
+		<script>lucide.createIcons({ attrs: { width: 16, height: 16 } });</script>
+	</body>
+</html>

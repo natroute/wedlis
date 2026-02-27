@@ -1,0 +1,3480 @@
+[
+    {
+        "word": "Ðan",
+        "pos": "preposition",
+        "definition": "than, relative to, with respect to, in comparison with"
+    },
+    {
+        "word": "Ðat",
+        "pos": "descriptor",
+        "definition": "that (a more distant specific one)",
+        "keywords": [
+            "he",
+            "she",
+            "they",
+            "it",
+            "3rd person",
+            "third person"
+        ]
+    },
+    {
+        "word": "Ðeq",
+        "pos": "verb",
+        "definition": "thank (for something)"
+    },
+    {
+        "word": "Ðis",
+        "pos": "descriptor",
+        "definition": "this (a close specific one)"
+    },
+    {
+        "word": "Ðor",
+        "pos": "descriptor",
+        "definition": "other, another",
+        "seeAlso": [
+            "Dif"
+        ]
+    },
+    {
+        "word": "Ðyt",
+        "pos": "descriptor",
+        "definition": "the (a specific one)",
+        "keywords": ["definite"]
+    },
+    {
+        "word": "Böd",
+        "pos": "noun",
+        "definition": "body"
+    },
+    {
+        "word": "Böj",
+        "pos": "noun",
+        "definition": "object, item",
+        "keywords": [
+            "inanimate"
+        ]
+    },
+    {
+        "word": "Böl",
+        "pos": "noun",
+        "definition": "ball, sphere"
+    },
+    {
+        "word": "Bag",
+        "pos": "noun",
+        "definition": "bag, purse, sack"
+    },
+    {
+        "word": "Bak",
+        "pos": "preposition",
+        "definition": "back (to something)"
+    },
+    {
+        "word": "Baw",
+        "pos": "preposition",
+        "definition": "about something, concerning"
+    },
+    {
+        "word": "Bax",
+        "pos": "noun",
+        "definition": "bath, basin, tub, sink"
+    },
+    {
+        "word": "Bed",
+        "pos": "noun",
+        "definition": "bed"
+    },
+    {
+        "word": "Beg",
+        "pos": "verb",
+        "definition": "begin (something), start, initiate, launch",
+        "antonymDefinition": "stop (something), halt, terminate"
+    },
+    {
+        "word": "Bek",
+        "pos": "noun",
+        "definition": "bacteria"
+    },
+    {
+        "word": "Ben",
+        "pos": "verb",
+        "definition": "bend (something), fold, reshape, sculpt",
+        "antonymDefinition": "straighten, unfold"
+    },
+    {
+        "word": "Ber",
+        "pos": "descriptor",
+        "definition": "barely, hardly at all"
+    },
+    {
+        "word": "Bey",
+        "pos": "descriptor",
+        "definition": "basic, simple, plain",
+        "antonymDefinition": "complicated, complex"
+    },
+    {
+        "word": "Bil",
+        "pos": "noun",
+        "definition": "building (a structure with a roof and walls)"
+    },
+    {
+        "word": "Biz",
+        "pos": "descriptor",
+        "definition": "busy, preoccupied",
+        "antonymDefinition": "free, unoccupied"
+    },
+    {
+        "word": "Blö",
+        "pos": "verb",
+        "definition": "explode (something), blast, detonate, pop, burst",
+        "antonymDefinition": "implode"
+    },
+    {
+        "word": "Ble",
+        "pos": "descriptor",
+        "definition": "blank, bare, bald"
+    },
+    {
+        "word": "Blw",
+        "pos": "descriptor",
+        "definition": "blue",
+        "antonymDefinition": "orange",
+        "keywords": ["brown", "cyan"]
+    },
+    {
+        "word": "Bly",
+        "pos": "noun",
+        "definition": "blood"
+    },
+    {
+        "word": "Bok",
+        "pos": "noun",
+        "definition": "block, rectangular prism (a solid geometric object)"
+    },
+    {
+        "word": "Bon",
+        "pos": "noun",
+        "definition": "bone"
+    },
+    {
+        "word": "Bor",
+        "pos": "noun",
+        "definition": "border, outline, frame, bound"
+    },
+    {
+        "word": "Brð",
+        "pos": "verb",
+        "definition": "breathe (air), inhale, exhale, sigh, gasp"
+    },
+    {
+        "word": "Brc",
+        "pos": "verb",
+        "definition": "brush (hair), comb, broom"
+    },
+    {
+        "word": "Brd",
+        "pos": "noun",
+        "definition": "bird"
+    },
+    {
+        "word": "Bre",
+        "pos": "noun",
+        "definition": "bread, roll"
+    },
+    {
+        "word": "Brk",
+        "pos": "verb",
+        "definition": "break (something), snap, shatter, tear, rip",
+        "keywords": [
+            "broken",
+            "torn"
+        ]
+    },
+    {
+        "word": "Brt",
+        "pos": "descriptor",
+        "definition": "bright, light (of color), shining, shiny",
+        "antonymDefinition": "dark, dim",
+        "seeAlso": [
+            "Fyc"
+        ]
+    },
+    {
+        "word": "Brv",
+        "pos": "descriptor",
+        "definition": "brave, bold, courageous, confident",
+        "antonymDefinition": "cowardly, unconfident"
+    },
+    {
+        "word": "Bud",
+        "pos": "noun",
+        "definition": "butter"
+    },
+    {
+        "word": "Bum",
+        "pos": "noun",
+        "definition": "bump, lump, pile, mound",
+        "keywords": [
+            "hill"
+        ]
+    },
+    {
+        "word": "Bun",
+        "pos": "noun",
+        "definition": "button, key (an input device which is pressed)"
+    },
+    {
+        "word": "But",
+        "pos": "preposition",
+        "definition": "in contrast (to something), but, however"
+    },
+    {
+        "word": "Buy",
+        "pos": "preposition",
+        "definition": "by, with, by means of, using, through",
+        "seeAlso": [
+            "Wix"
+        ]
+    },
+    {
+        "word": "Buz",
+        "pos": "noun",
+        "definition": "buzz, hum, hiss"
+    },
+    {
+        "word": "Bwk",
+        "pos": "noun",
+        "definition": "book"
+    },
+    {
+        "word": "Bwn",
+        "pos": "preposition",
+        "definition": "between, among, within"
+    },
+    {
+        "word": "Byd",
+        "pos": "descriptor",
+        "definition": "beautiful, pretty, pleasant",
+        "antonymDefinition": "ugly, unpleasant"
+    },
+    {
+        "word": "Byf",
+        "pos": "preposition",
+        "definition": "before (something)",
+        "antonymDefinition": "after (something)"
+    },
+    {
+        "word": "Byk",
+        "pos": "preposition",
+        "definition": "because (of something)"
+    },
+    {
+        "word": "Bym",
+        "pos": "verb",
+        "copula": true,
+        "definition": "become (something), turn into"
+    },
+    {
+        "word": "Byn",
+        "pos": "noun",
+        "definition": "bean, legume"
+    },
+    {
+        "word": "Byp",
+        "pos": "noun",
+        "definition": "beep, blip, chirp, squeak"
+    },
+    {
+        "word": "Bys",
+        "pos": "verb",
+        "definition": "bounce (something), reflect, deflect, parry",
+        "antonymDefinition": "absorb (something), suck"
+    },
+    {
+        "word": "Byt",
+        "pos": "verb",
+        "definition": "bite (something), chew, chomp"
+    },
+    {
+        "word": "Cöl",
+        "pos": "descriptor",
+        "definition": "all, every, each, both",
+        "antonymDefinition": "none, neither"
+    },
+    {
+        "word": "Cön",
+        "pos": "preposition",
+        "definition": "on something, on top of, supported by",
+        "antonymDefinition": "off of something"
+    },
+    {
+        "word": "Cöp",
+        "pos": "noun",
+        "definition": "shop, store"
+    },
+    {
+        "word": "Cak",
+        "pos": "verb",
+        "copula": true,
+        "definition": "act (like something), perform (as something), behave as, pose as",
+        "keywords": [
+            "play",
+            "role"
+        ]
+    },
+    {
+        "word": "Cas",
+        "pos": "verb",
+        "definition": "ask (a question), inquire"
+    },
+    {
+        "word": "Caw",
+        "pos": "verb",
+        "definition": "shower (with a substance), spray, splash"
+    },
+    {
+        "word": "Ceg",
+        "pos": "noun",
+        "definition": "egg"
+    },
+    {
+        "word": "Cek",
+        "pos": "verb",
+        "definition": "shake (something), vibrate"
+    },
+    {
+        "word": "Cen",
+        "pos": "descriptor",
+        "definition": "any (no particular instance of)"
+    },
+    {
+        "word": "Cep",
+        "pos": "noun",
+        "definition": "shape, form, design, layout, structure"
+    },
+    {
+        "word": "Cif",
+        "pos": "preposition",
+        "definition": "if (happening under the condition that)"
+    },
+    {
+        "word": "Cik",
+        "pos": "noun",
+        "definition": "chicken"
+    },
+    {
+        "word": "Cin",
+        "pos": "preposition",
+        "definition": "in, inside of, within",
+        "antonymDefinition": "out, outside of"
+    },
+    {
+        "word": "Con",
+        "pos": "noun",
+        "definition": "ocean, sea"
+    },
+    {
+        "word": "Cot",
+        "pos": "verb",
+        "definition": "show, display, point out, draw attention to, demonstrate, indicate, reveal",
+        "antonymDefinition": "hide, conceal"
+    },
+    {
+        "word": "Coy",
+        "pos": "verb",
+        "definition": "enjoy (something), like, prefer",
+        "antonymDefinition": "dislike"
+    },
+    {
+        "word": "Crn",
+        "pos": "verb",
+        "definition": "earn (something), deserve, merit"
+    },
+    {
+        "word": "Crt",
+        "pos": "noun",
+        "definition": "shirt"
+    },
+    {
+        "word": "Cup",
+        "pos": "descriptor",
+        "definition": "up",
+        "antonymDefinition": "down"
+    },
+    {
+        "word": "Cwd",
+        "pos": "descriptor",
+        "definition": "should; appropriate, proper, supposed to"
+    },
+    {
+        "word": "Cwg",
+        "pos": "noun",
+        "definition": "sugar"
+    },
+    {
+        "word": "Cwp",
+        "pos": "noun",
+        "definition": "shoe"
+    },
+    {
+        "word": "Cwr",
+        "pos": "descriptor",
+        "definition": "sure, certain, assured",
+        "antonymDefinition": "unsure, uncertain"
+    },
+    {
+        "word": "Cwt",
+        "pos": "verb",
+        "definition": "shoot (ammunition), fire"
+    },
+    {
+        "word": "Cyp",
+        "pos": "noun",
+        "definition": "sheep, lamb"
+    },
+    {
+        "word": "Dög",
+        "pos": "noun",
+        "definition": "dog",
+        "keywords": [
+            "wolf"
+        ]
+    },
+    {
+        "word": "Dök",
+        "pos": "noun",
+        "definition": "document, essay, article"
+    },
+    {
+        "word": "Döl",
+        "pos": "noun",
+        "definition": "dollar"
+    },
+    {
+        "word": "Döm",
+        "pos": "descriptor",
+        "definition": "automatic, with no external intervention",
+        "antonymDefinition": "manual, operating with external intervention"
+    },
+    {
+        "word": "Dan",
+        "pos": "verb",
+        "definition": "understand, comprehend",
+        "antonymDefinition": "be confused by, misunderstand"
+    },
+    {
+        "word": "Dav",
+        "pos": "verb",
+        "definition": "advertise (something), promote, market"
+    },
+    {
+        "word": "Def",
+        "pos": "verb",
+        "definition": "defend (something/someone), protect, guard, keep safe, save, preserve, conserve"
+    },
+    {
+        "word": "Dej",
+        "pos": "noun",
+        "definition": "danger, peril",
+        "antonymDefinition": "safety, security",
+        "keywords": ["dangerous", "safe"]
+    },
+    {
+        "word": "Dem",
+        "pos": "verb",
+        "definition": "demand (something), request, order, command"
+    },
+    {
+        "word": "Der",
+        "pos": "noun",
+        "definition": "direction, way, path"
+    },
+    {
+        "word": "Des",
+        "pos": "verb",
+        "definition": "describe (something), explain, report"
+    },
+    {
+        "word": "Det",
+        "pos": "verb",
+        "definition": "identify (something), recognize, be familiar with, discern",
+        "keywords": ["know"]
+    },
+    {
+        "word": "Dey",
+        "pos": "noun",
+        "definition": "day (either 24 hours or the period of sunlight)",
+        "antonymDefinition": "night",
+        "keywords": ["morning", "evening"]
+    },
+    {
+        "word": "Dic",
+        "pos": "noun",
+        "definition": "dish, plate"
+    },
+    {
+        "word": "Dif",
+        "pos": "descriptor",
+        "definition": "different, differing, contrasting",
+        "antonymDefinition": "same, identical"
+    },
+    {
+        "word": "Dig",
+        "pos": "verb",
+        "definition": "dig (in something)",
+        "antonymDefinition": "bury"
+    },
+    {
+        "word": "Dim",
+        "pos": "noun",
+        "definition": "atom"
+    },
+    {
+        "word": "Dip",
+        "pos": "verb",
+        "definition": "depend (on something), be controlled or determined by"
+    },
+    {
+        "word": "Div",
+        "pos": "verb",
+        "definition": "divide (something), split, distribute",
+        "antonymDefinition": "combine, merge, fuse, unify"
+    },
+    {
+        "word": "Diz",
+        "pos": "noun",
+        "definition": "disease, illness, sickness, germ",
+        "antonymDefinition": "health"
+    },
+    {
+        "word": "Dof",
+        "pos": "noun",
+        "definition": "dough"
+    },
+    {
+        "word": "Dor",
+        "pos": "noun",
+        "definition": "door, gate"
+    },
+    {
+        "word": "Drt",
+        "pos": "noun",
+        "definition": "dirt, soil, ground"
+    },
+    {
+        "word": "Dun",
+        "pos": "descriptor",
+        "definition": "done, finished, complete/completely",
+        "antonymDefinition": "incomplete, unfinished"
+    },
+    {
+        "word": "Dus",
+        "pos": "noun",
+        "definition": "dust, powder"
+    },
+    {
+        "word": "Duz",
+        "pos": "descriptor",
+        "definition": "does, (makes the sentence a question; optional, removes ambiguity)"
+    },
+    {
+        "word": "Dwn",
+        "pos": "verb",
+        "definition": "do (something), perform (an action), be involved with, participate in",
+        "antonymDefinition": "undo"
+    },
+    {
+        "word": "Fön",
+        "pos": "descriptor",
+        "definition": "often, frequent, occupational, as a job, routinely, as the primary purpose, as a tool for",
+        "antonymDefinition": "rarely, infrequent"
+    },
+    {
+        "word": "Fös",
+        "pos": "noun",
+        "definition": "office"
+    },
+    {
+        "word": "Fac",
+        "pos": "descriptor",
+        "definition": "fancy, formal",
+        "antonymDefinition": "casual, informal"
+    },
+    {
+        "word": "Fam",
+        "pos": "noun",
+        "definition": "family"
+    },
+    {
+        "word": "Fas",
+        "pos": "descriptor",
+        "definition": "fast, quick",
+        "antonymDefinition": "slow"
+    },
+    {
+        "word": "Feð",
+        "pos": "noun",
+        "definition": "feather"
+    },
+    {
+        "word": "Fen",
+        "pos": "noun",
+        "definition": "friend",
+        "antonymDefinition": "enemy"
+    },
+    {
+        "word": "Fer",
+        "pos": "descriptor",
+        "definition": "fair, just, right",
+        "antonymDefinition": "unfair, unjust"
+    },
+    {
+        "word": "Fes",
+        "pos": "noun",
+        "definition": "face (of a person or animal)"
+    },
+    {
+        "word": "Fet",
+        "pos": "verb",
+        "definition": "fight (someone), attack"
+    },
+    {
+        "word": "Fic",
+        "pos": "noun",
+        "definition": "fish"
+    },
+    {
+        "word": "Fid",
+        "pos": "verb",
+        "definition": "find, come to know where something is, discover",
+        "antonymDefinition": "lose (track of something)"
+    },
+    {
+        "word": "Fig",
+        "pos": "noun",
+        "definition": "flag"
+    },
+    {
+        "word": "Fim",
+        "pos": "noun",
+        "definition": "woman, female"
+    },
+    {
+        "word": "Fiq",
+        "pos": "noun",
+        "definition": "finger, toe"
+    },
+    {
+        "word": "Fis",
+        "pos": "descriptor",
+        "definition": "first, initial, primary, original",
+        "antonymDefinition": "last, final, ultimate"
+    },
+    {
+        "word": "Fiv",
+        "pos": "descriptor",
+        "definition": "five",
+        "keywords": ["5"]
+    },
+    {
+        "word": "Flö",
+        "pos": "descriptor",
+        "definition": "flat, even, smooth",
+        "antonymDefinition": "rough, bumpy"
+    },
+    {
+        "word": "Flo",
+        "pos": "noun",
+        "definition": "floor, ground",
+        "antonymDefinition": "ceiling"
+    },
+    {
+        "word": "Fly",
+        "pos": "noun",
+        "definition": "flower"
+    },
+    {
+        "word": "Fod",
+        "pos": "descriptor",
+        "definition": "forward",
+        "antonymDefinition": "backward"
+    },
+    {
+        "word": "Fok",
+        "pos": "verb",
+        "definition": "focus (on something), pay attention to, concentrate on",
+        "antonymDefinition": "ignore",
+        "keywords": ["look", "listen"]
+    },
+    {
+        "word": "Fom",
+        "pos": "noun",
+        "definition": "foam, sponge, cake"
+    },
+    {
+        "word": "Fon",
+        "pos": "noun",
+        "definition": "phone, telephone"
+    },
+    {
+        "word": "For",
+        "pos": "preposition",
+        "definition": "for, intended for, for the purpose of, to, in favor of, so that, in order to",
+        "antonymDefinition": "against"
+    },
+    {
+        "word": "Fot",
+        "pos": "noun",
+        "definition": "foot (a unit of length)"
+    },
+    {
+        "word": "Fre",
+        "pos": "descriptor",
+        "definition": "in a fraction, over, -th/-nd (precedes a number)"
+    },
+    {
+        "word": "Frn",
+        "pos": "noun",
+        "definition": "furniture"
+    },
+    {
+        "word": "Fro",
+        "pos": "noun",
+        "definition": "friction",
+        "seeAlso": [
+            "Sle"
+        ]
+    },
+    {
+        "word": "Frt",
+        "pos": "preposition",
+        "definition": "in front of",
+        "antonymDefinition": "behind"
+    },
+    {
+        "word": "Frw",
+        "pos": "noun",
+        "definition": "fruit"
+    },
+    {
+        "word": "Fry",
+        "pos": "descriptor",
+        "definition": "free, unrestricted",
+        "antonymDefinition": "constrained, restricted"
+    },
+    {
+        "word": "Ful",
+        "pos": "descriptor",
+        "definition": "full, with no space remaining",
+        "antonymDefinition": "empty"
+    },
+    {
+        "word": "Fun",
+        "pos": "descriptor",
+        "definition": "funny, humorous",
+        "antonymDefinition": "sad, tragic, serious",
+        "seeAlso": [
+            "Myw"
+        ]
+    },
+    {
+        "word": "Fwc",
+        "pos": "noun",
+        "definition": "meat, flesh, muscle"
+    },
+    {
+        "word": "Fwd",
+        "pos": "noun",
+        "definition": "food",
+        "antonymDefinition": "poop/poo, crap"
+    },
+    {
+        "word": "Fwl",
+        "pos": "noun",
+        "definition": "fuel"
+    },
+    {
+        "word": "Fwr",
+        "pos": "descriptor",
+        "definition": "four",
+        "keywords": ["4"]
+    },
+    {
+        "word": "Fwt",
+        "pos": "noun",
+        "definition": "foot (a part of the body)",
+        "keywords": ["leg", "knee"]
+    },
+    {
+        "word": "Fyc",
+        "pos": "descriptor",
+        "definition": "flashing, blinking, sparkling, glimmering",
+        "seeAlso": [
+            "Brt"
+        ]
+    },
+    {
+        "word": "Fyl",
+        "copula": true,
+        "pos": "verb",
+        "definition": "feel (an object or emotion), sense"
+    },
+    {
+        "word": "Fyr",
+        "pos": "noun",
+        "definition": "fire",
+        "keywords": [
+            "burn",
+            "cook"
+        ]
+    },
+    {
+        "word": "Gör",
+        "pos": "noun",
+        "definition": "garbage, waste, trash",
+        "antonymDefinition": "treasure, something valuable"
+    },
+    {
+        "word": "Gal",
+        "pos": "noun",
+        "definition": "gallon"
+    },
+    {
+        "word": "Gat",
+        "pos": "descriptor",
+        "definition": "exact, precise, specific, particular",
+        "antonymDefinition": "general, imprecise, vague"
+    },
+    {
+        "word": "Gem",
+        "pos": "noun",
+        "definition": "game, competition, sport"
+    },
+    {
+        "word": "Ger",
+        "pos": "descriptor",
+        "definition": "angry, mad"
+    },
+    {
+        "word": "Get",
+        "pos": "verb",
+        "definition": "get, receive",
+        "antonymDefinition": "lose (possession of something)"
+    },
+    {
+        "word": "Gil",
+        "pos": "noun",
+        "definition": "English (the language)",
+        "antonymDefinition": "Vötgil (the language)"
+    },
+    {
+        "word": "Gis",
+        "pos": "noun",
+        "definition": "glasses (used to aid vision)"
+    },
+    {
+        "word": "Gle",
+        "pos": "noun",
+        "definition": "glass (a transparent material)"
+    },
+    {
+        "word": "Gof",
+        "pos": "verb",
+        "definition": "go (on a surface), travel, move oneself"
+    },
+    {
+        "word": "Gon",
+        "pos": "noun",
+        "definition": "organ (of the body)"
+    },
+    {
+        "word": "Gos",
+        "pos": "noun",
+        "definition": "ghost, spirit"
+    },
+    {
+        "word": "Grö",
+        "pos": "noun",
+        "definition": "grass"
+    },
+    {
+        "word": "Gre",
+        "pos": "descriptor",
+        "definition": "gray/grey"
+    },
+    {
+        "word": "Grp",
+        "pos": "noun",
+        "definition": "group, category"
+    },
+    {
+        "word": "Gry",
+        "pos": "verb",
+        "definition": "agree (with something or someone), consent",
+        "antonymDefinition": "disagree (with something or someone), object to, oppose"
+    },
+    {
+        "word": "Gul",
+        "pos": "descriptor",
+        "definition": "guilty, shameful, sorry",
+        "antonymDefinition": "innocent"
+    },
+    {
+        "word": "Guv",
+        "pos": "noun",
+        "definition": "government (a system of law)"
+    },
+    {
+        "word": "Gwd",
+        "pos": "descriptor",
+        "definition": "good, well",
+        "antonymDefinition": "bad"
+    },
+    {
+        "word": "Gyn",
+        "pos": "descriptor",
+        "definition": "green",
+        "antonymDefinition": "red",
+        "keywords": ["pink", "cyan"]
+    },
+    {
+        "word": "Gyt",
+        "pos": "verb",
+        "definition": "greet (someone), welcome",
+        "antonymDefinition": "say goodbye to, bid farewell to"
+    },
+    {
+        "word": "Höl",
+        "pos": "descriptor",
+        "definition": "hollow, with an empty cavity",
+        "antonymDefinition": "filled, solid",
+        "keywords": [
+            "hole"
+        ]
+    },
+    {
+        "word": "Han",
+        "pos": "noun",
+        "definition": "hand (a part of the body)",
+        "keywords": ["arm", "elbow"]
+    },
+    {
+        "word": "Hap",
+        "pos": "descriptor",
+        "definition": "happy, glad",
+        "antonymDefinition": "unhappy, sad"
+    },
+    {
+        "word": "Hat",
+        "pos": "noun",
+        "definition": "hat"
+    },
+    {
+        "word": "Hav",
+        "pos": "verb",
+        "definition": "have, own, possess"
+    },
+    {
+        "word": "Hed",
+        "pos": "noun",
+        "definition": "head (a part of the body)"
+    },
+    {
+        "word": "Hen",
+        "pos": "descriptor",
+        "definition": "happening, occurring"
+    },
+    {
+        "word": "Hep",
+        "pos": "verb",
+        "definition": "help (to do something), assist in",
+        "antonymDefinition": "hinder",
+        "seeAlso": [
+            "Ywl"
+        ]
+    },
+    {
+        "word": "Her",
+        "pos": "noun",
+        "definition": "hair, fur, wool"
+    },
+    {
+        "word": "Hev",
+        "pos": "descriptor",
+        "definition": "heavy",
+        "antonymDefinition": "light, unheavy"
+    },
+    {
+        "word": "Hey",
+        "pos": "noun",
+        "definition": "hello, hi",
+        "antonymDefinition": "goodbye, bye"
+    },
+    {
+        "word": "Hit",
+        "pos": "verb",
+        "definition": "hit (something), beat, strike, crash into, knock"
+    },
+    {
+        "word": "Hol",
+        "pos": "noun",
+        "definition": "hole, pit"
+    },
+    {
+        "word": "Hom",
+        "pos": "noun",
+        "definition": "home"
+    },
+    {
+        "word": "Hos",
+        "pos": "noun",
+        "definition": "house"
+    },
+    {
+        "word": "Hot",
+        "pos": "descriptor",
+        "definition": "horizontal, perpendicular to gravity"
+    },
+    {
+        "word": "Hrt",
+        "pos": "verb",
+        "definition": "hurt (something), damage, harm, injure",
+        "antonymDefinition": "heal, repair"
+    },
+    {
+        "word": "Hwd",
+        "pos": "verb",
+        "definition": "hold (something), grab, physically support"
+    },
+    {
+        "word": "Hwk",
+        "pos": "noun",
+        "definition": "hook"
+    },
+    {
+        "word": "Hyr",
+        "pos": "verb",
+        "definition": "hear",
+        "keywords": [
+            "listen"
+        ]
+    },
+    {
+        "word": "Jöb",
+        "pos": "noun",
+        "definition": "job, occupation, profession",
+        "keywords": ["work"],
+        "seeAlso": [
+            "Tas"
+        ]
+    },
+    {
+        "word": "Jöp",
+        "pos": "verb",
+        "definition": "drop (something), make fall"
+    },
+    {
+        "word": "Jör",
+        "pos": "verb",
+        "definition": "draw (a picture), paint"
+    },
+    {
+        "word": "Jak",
+        "pos": "descriptor",
+        "definition": "actual, real, existing",
+        "antonymDefinition": "fake, non-existent",
+        "keywords": ["exist"]
+    },
+    {
+        "word": "Jed",
+        "pos": "noun",
+        "definition": "edge"
+    },
+    {
+        "word": "Jek",
+        "pos": "preposition",
+        "definition": "except, excluding",
+        "antonymDefinition": "including",
+        "keywords": ["include", "exclude"]
+    },
+    {
+        "word": "Jem",
+        "pos": "noun",
+        "definition": "gem, crystal, jewel"
+    },
+    {
+        "word": "Jer",
+        "pos": "noun",
+        "definition": "air"
+    },
+    {
+        "word": "Jor",
+        "pos": "preposition",
+        "definition": "or, either one"
+    },
+    {
+        "word": "Jum",
+        "pos": "verb",
+        "definition": "jump (over something), skip"
+    },
+    {
+        "word": "Jus",
+        "pos": "verb",
+        "definition": "adjust (something), tweak, calibrate, enhance"
+    },
+    {
+        "word": "Jwr",
+        "pos": "preposition",
+        "definition": "during (something) (not necessarily from the start to end of)"
+    },
+    {
+        "word": "Jws",
+        "pos": "noun",
+        "definition": "juice"
+    },
+    {
+        "word": "Köd",
+        "pos": "noun",
+        "definition": "quality, trait, property"
+    },
+    {
+        "word": "Köf",
+        "pos": "noun",
+        "definition": "coffee"
+    },
+    {
+        "word": "Köm",
+        "pos": "descriptor",
+        "definition": "calm, relaxed",
+        "antonymDefinition": "nervous, anxious, worried, stressed",
+        "keywords": ["worry", "stress", "anxiety"]
+    },
+    {
+        "word": "Köp",
+        "pos": "verb",
+        "definition": "copy (something), make one more, duplicate, multiply"
+    },
+    {
+        "word": "Kör",
+        "pos": "noun",
+        "definition": "car"
+    },
+    {
+        "word": "Köx",
+        "pos": "noun",
+        "definition": "cloth, fabric"
+    },
+    {
+        "word": "Köz",
+        "pos": "verb",
+        "definition": "cause (something), make happen, be the reason for, so, therefore",
+        "antonymDefinition": "prevent, stop from happening"
+    },
+    {
+        "word": "Kan",
+        "pos": "verb",
+        "definition": "be able to do (something), be capable of, can"
+    },
+    {
+        "word": "Kap",
+        "pos": "noun",
+        "definition": "capsule, pellet, pill, pod"
+    },
+    {
+        "word": "Kas",
+        "pos": "verb",
+        "definition": "carry (something), bring"
+    },
+    {
+        "word": "Kat",
+        "pos": "noun",
+        "definition": "cat"
+    },
+    {
+        "word": "Kaw",
+        "pos": "noun",
+        "definition": "cow, cattle"
+    },
+    {
+        "word": "Keb",
+        "pos": "noun",
+        "definition": "wire, cable"
+    },
+    {
+        "word": "Kef",
+        "pos": "descriptor",
+        "definition": "careful, alert, prudent, cautious, gentle",
+        "antonymDefinition": "careless, bashful, reckless"
+    },
+    {
+        "word": "Kel",
+        "pos": "verb",
+        "definition": "collect (something), gather"
+    },
+    {
+        "word": "Ken",
+        "pos": "descriptor",
+        "definition": "common, normal, usual, ordinary, regular, typical",
+        "antonymDefinition": "uncommon, unusual, rare, strange, weird, odd"
+    },
+    {
+        "word": "Kep",
+        "pos": "noun",
+        "definition": "concept, idea, notion, thought, topic, subject",
+        "keywords": ["abstract"]
+    },
+    {
+        "word": "Ker",
+        "pos": "verb",
+        "definition": "care about (something), have concern for, worry about, respect"
+    },
+    {
+        "word": "Kes",
+        "pos": "noun",
+        "definition": "extent, degree, amount, quantity (used for uncountable items or actions)"
+    },
+    {
+        "word": "Ket",
+        "pos": "verb",
+        "definition": "connect (something), join, attach",
+        "antonymDefinition": "disconnect (something)"
+    },
+    {
+        "word": "Kev",
+        "pos": "descriptor",
+        "definition": "clever, smart, intelligent",
+        "antonymDefinition": "stupid, dumb, unintelligent",
+        "keywords": ["idiot"]
+    },
+    {
+        "word": "Key",
+        "pos": "descriptor",
+        "definition": "okay, alright, decent, acceptable",
+        "antonymDefinition": "unacceptable, problematic"
+    },
+    {
+        "word": "Kin",
+        "pos": "verb",
+        "definition": "continue (something), keep doing"
+    },
+    {
+        "word": "Kip",
+        "pos": "noun",
+        "definition": "clip, clamp (used for attaching things)"
+    },
+    {
+        "word": "Kit",
+        "pos": "noun",
+        "definition": "kind, type, sort"
+    },
+    {
+        "word": "Klö",
+        "pos": "noun",
+        "definition": "cloud, smoke"
+    },
+    {
+        "word": "Klo",
+        "pos": "noun",
+        "definition": "clothes, for wearing"
+    },
+    {
+        "word": "Klr",
+        "pos": "descriptor",
+        "definition": "clear, transparent",
+        "antonymDefinition": "unclear, opaque"
+    },
+    {
+        "word": "Kly",
+        "pos": "descriptor",
+        "definition": "clean",
+        "antonymDefinition": "dirty"
+    },
+    {
+        "word": "Kod",
+        "pos": "noun",
+        "definition": "code"
+    },
+    {
+        "word": "Kol",
+        "pos": "verb",
+        "definition": "be equal to, be the same as, be identical to"
+    },
+    {
+        "word": "Kon",
+        "pos": "verb",
+        "definition": "count (something), find the quantity of"
+    },
+    {
+        "word": "Kor",
+        "pos": "descriptor",
+        "definition": "correct, right",
+        "antonymDefinition": "incorrect, wrong"
+    },
+    {
+        "word": "Kot",
+        "pos": "noun",
+        "definition": "coat, jacket (clothes for cold weather)"
+    },
+    {
+        "word": "Koy",
+        "pos": "verb",
+        "definition": "contain, include, encompass"
+    },
+    {
+        "word": "Krö",
+        "pos": "preposition",
+        "definition": "across"
+    },
+    {
+        "word": "Krn",
+        "pos": "noun",
+        "definition": "corn"
+    },
+    {
+        "word": "Kro",
+        "pos": "descriptor",
+        "definition": "crazy, mad, wild, insane",
+        "antonymDefinition": "tame, docile, domestic, sane, normal"
+    },
+    {
+        "word": "Krt",
+        "pos": "descriptor",
+        "definition": "creative, innovative"
+    },
+    {
+        "word": "Krv",
+        "pos": "descriptor",
+        "definition": "curved, round"
+    },
+    {
+        "word": "Kry",
+        "pos": "verb",
+        "definition": "cry (speech), weep"
+    },
+    {
+        "word": "Kuc",
+        "pos": "verb",
+        "definition": "control (something), drive, manipulate, rule, conduct, lead"
+    },
+    {
+        "word": "Kuf",
+        "pos": "descriptor",
+        "definition": "comfortable",
+        "antonymDefinition": "uncomfortable"
+    },
+    {
+        "word": "Kul",
+        "pos": "noun",
+        "definition": "color"
+    },
+    {
+        "word": "Kup",
+        "pos": "noun",
+        "definition": "cup, bucket, bowl"
+    },
+    {
+        "word": "Kut",
+        "pos": "verb",
+        "definition": "cut (something), chop, shear, slice"
+    },
+    {
+        "word": "Kuv",
+        "pos": "verb",
+        "definition": "cover (something), wrap",
+        "antonymDefinition": "uncover (something), unwrap"
+    },
+    {
+        "word": "Kwd",
+        "pos": "descriptor",
+        "definition": "could (the verb could happen), may, might, perhaps, maybe; possible",
+        "antonymDefinition": "impossible"
+    },
+    {
+        "word": "Kwp",
+        "pos": "noun",
+        "definition": "company, business"
+    },
+    {
+        "word": "Kwt",
+        "pos": "verb",
+        "definition": "compute (a result), calculate"
+    },
+    {
+        "word": "Kyt",
+        "pos": "descriptor",
+        "definition": "cute, adorable"
+    },
+    {
+        "word": "Lög",
+        "pos": "noun",
+        "definition": "logic, reason, sense"
+    },
+    {
+        "word": "Lök",
+        "pos": "verb",
+        "definition": "lock (something)",
+        "antonymDefinition": "unlock (something)"
+    },
+    {
+        "word": "Löm",
+        "pos": "descriptor",
+        "definition": "almost, nearly"
+    },
+    {
+        "word": "Löq",
+        "pos": "descriptor",
+        "definition": "long, with a great length, tall",
+        "antonymDefinition": "short, brief"
+    },
+    {
+        "word": "Lör",
+        "pos": "descriptor",
+        "definition": "large, big, great, high (of an amount)",
+        "antonymDefinition": "small, little, low"
+    },
+    {
+        "word": "Lös",
+        "pos": "descriptor",
+        "definition": "also, too, in addition"
+    },
+    {
+        "word": "Löt",
+        "pos": "descriptor",
+        "definition": "a lot of, many",
+        "antonymDefinition": "few, not a lot"
+    },
+    {
+        "word": "Löv",
+        "pos": "noun",
+        "definition": "law, rule, regulation"
+    },
+    {
+        "word": "Lad",
+        "pos": "descriptor",
+        "definition": "loud, noisy",
+        "antonymDefinition": "quiet, silent"
+    },
+    {
+        "word": "Laf",
+        "pos": "verb",
+        "definition": "laugh (at something)"
+    },
+    {
+        "word": "Lan",
+        "pos": "noun",
+        "definition": "land, parcel, lot, country"
+    },
+    {
+        "word": "Lat",
+        "pos": "noun",
+        "definition": "outlet (for electricity or another resource), spout, dispenser, faucet",
+        "antonymDefinition": "inlet, repository"
+    },
+    {
+        "word": "Leb",
+        "pos": "noun",
+        "definition": "label, tag"
+    },
+    {
+        "word": "Lef",
+        "pos": "descriptor",
+        "definition": "left, leftward, towards the left",
+        "antonymDefinition": "right, rightward, towards the right",
+        "seeAlso": ["Lwf"]
+    },
+    {
+        "word": "Lek",
+        "pos": "noun",
+        "definition": "electricity"
+    },
+    {
+        "word": "Leq",
+        "pos": "noun",
+        "definition": "language"
+    },
+    {
+        "word": "Ler",
+        "pos": "noun",
+        "definition": "lever",
+        "seeAlso": [
+            "Swo"
+        ]
+    },
+    {
+        "word": "Let",
+        "pos": "verb",
+        "definition": "let (something occur), allow, permit, invite",
+        "antonymDefinition": "deny, disallow, forbid, ban"
+    },
+    {
+        "word": "Lev",
+        "pos": "noun",
+        "definition": "level (of a game, building, etc), stage, layer, shelf"
+    },
+    {
+        "word": "Lic",
+        "pos": "noun",
+        "definition": "liquid"
+    },
+    {
+        "word": "Lim",
+        "pos": "noun",
+        "definition": "limb, appendage, neck, arm, leg, branch"
+    },
+    {
+        "word": "Lis",
+        "pos": "noun",
+        "definition": "list"
+    },
+    {
+        "word": "Lit",
+        "pos": "noun",
+        "definition": "limit, constraint, the maximum permissible amount"
+    },
+    {
+        "word": "Liv",
+        "pos": "descriptor",
+        "definition": "alive, living, lively",
+        "antonymDefinition": "dead",
+        "keywords": ["life", "live", "death", "die"]
+    },
+    {
+        "word": "Lok",
+        "pos": "noun",
+        "definition": "lake, pond"
+    },
+    {
+        "word": "Lrn",
+        "pos": "verb",
+        "definition": "learn, study, research",
+        "antonymDefinition": "forget"
+    },
+    {
+        "word": "Lum",
+        "pos": "noun",
+        "definition": "lumber, wood"
+    },
+    {
+        "word": "Luv",
+        "pos": "verb",
+        "definition": "love, adore",
+        "antonymDefinition": "hate"
+    },
+    {
+        "word": "Lwf",
+        "pos": "preposition",
+        "definition": "to the left of, on the left side of",
+        "antonymDefinition": "to the right of, on the right side of",
+        "seeAlso": ["Lef"]
+    },
+    {
+        "word": "Lwp",
+        "pos": "noun",
+        "definition": "loop, a shape which has no end"
+    },
+    {
+        "word": "Lyf",
+        "pos": "noun",
+        "definition": "leaf"
+    },
+    {
+        "word": "Lyk",
+        "pos": "preposition",
+        "definition": "like, similar to, related to",
+        "antonymDefinition": "unlike"
+    },
+    {
+        "word": "Lyn",
+        "pos": "noun",
+        "definition": "line"
+    },
+    {
+        "word": "Lyr",
+        "pos": "descriptor",
+        "definition": "early",
+        "antonymDefinition": "late"
+    },
+    {
+        "word": "Lyt",
+        "pos": "noun",
+        "definition": "light, either light itself or a light producing source",
+        "antonymDefinition": "darkness, shadow, shade"
+    },
+    {
+        "word": "Mök",
+        "pos": "verb",
+        "definition": "mark (something), designate, sign"
+    },
+    {
+        "word": "Möl",
+        "pos": "noun",
+        "definition": "mollusk, soft-bellied creature, snail, octopus, squid"
+    },
+    {
+        "word": "Möt",
+        "pos": "noun",
+        "definition": "market, economy"
+    },
+    {
+        "word": "Mad",
+        "pos": "noun",
+        "definition": "matter"
+    },
+    {
+        "word": "Mag",
+        "pos": "noun",
+        "definition": "magnet"
+    },
+    {
+        "word": "Man",
+        "pos": "noun",
+        "definition": "man, male"
+    },
+    {
+        "word": "Map",
+        "pos": "noun",
+        "definition": "map"
+    },
+    {
+        "word": "Max",
+        "pos": "noun",
+        "definition": "math, mathematics"
+    },
+    {
+        "word": "Med",
+        "pos": "noun",
+        "definition": "medicine"
+    },
+    {
+        "word": "Mej",
+        "pos": "verb",
+        "definition": "measure (something)"
+    },
+    {
+        "word": "Mek",
+        "pos": "verb",
+        "definition": "make (something), create, produce, cause to exist, build, construct; give birth to",
+        "antonymDefinition": "destroy, delete, erase"
+    },
+    {
+        "word": "Mel",
+        "pos": "noun",
+        "definition": "mail, letter (to be sent as mail)"
+    },
+    {
+        "word": "Mem",
+        "pos": "noun",
+        "definition": "member, an individual in a group"
+    },
+    {
+        "word": "Mer",
+        "pos": "verb",
+        "definition": "marry (someone)",
+        "antonymDefinition": "divorce",
+        "keywords": ["spouse", "wife", "husband"]
+    },
+    {
+        "word": "Met",
+        "pos": "noun",
+        "definition": "material, substance"
+    },
+    {
+        "word": "Mid",
+        "pos": "noun",
+        "definition": "middle, centre"
+    },
+    {
+        "word": "Mil",
+        "pos": "noun",
+        "definition": "milk"
+    },
+    {
+        "word": "Min",
+        "pos": "noun",
+        "definition": "minute"
+    },
+    {
+        "word": "Mis",
+        "pos": "noun",
+        "definition": "mistake, accident"
+    },
+    {
+        "word": "Mit",
+        "pos": "noun",
+        "definition": "mint"
+    },
+    {
+        "word": "Mod",
+        "pos": "noun",
+        "definition": "metal"
+    },
+    {
+        "word": "Mok",
+        "pos": "noun",
+        "definition": "machine, device"
+    },
+    {
+        "word": "Mon",
+        "pos": "descriptor",
+        "definition": "main, chief, principal, primary"
+    },
+    {
+        "word": "Mor",
+        "pos": "descriptor",
+        "definition": "more, -er, to a greater extent (\"long\" becomes \"longer\")",
+        "antonymDefinition": "less, to a lesser extent"
+    },
+    {
+        "word": "Mos",
+        "pos": "descriptor",
+        "definition": "-est, to the greatest extent, most (\"long\" becomes \"longest\")",
+        "antonymDefinition": "least, to the least extent"
+    },
+    {
+        "word": "Mot",
+        "pos": "descriptor",
+        "definition": "most, the majority, almost all",
+        "antonymDefinition": "the minority, almost none"
+    },
+    {
+        "word": "Muc",
+        "pos": "noun",
+        "definition": "mushroom, fungus"
+    },
+    {
+        "word": "Mul",
+        "pos": "noun",
+        "definition": "mile"
+    },
+    {
+        "word": "Mun",
+        "pos": "noun",
+        "definition": "money, currency"
+    },
+    {
+        "word": "Mwl",
+        "pos": "noun",
+        "definition": "mammal"
+    },
+    {
+        "word": "Mwn",
+        "pos": "noun",
+        "definition": "moon"
+    },
+    {
+        "word": "Mwv",
+        "pos": "verb",
+        "definition": "move (something), cause to go, cause to travel"
+    },
+    {
+        "word": "Mwz",
+        "pos": "noun",
+        "definition": "music"
+    },
+    {
+        "word": "Myn",
+        "pos": "verb",
+        "definition": "mean (something), signify, represent, imply"
+    },
+    {
+        "word": "Myt",
+        "pos": "verb",
+        "definition": "meet (someone)"
+    },
+    {
+        "word": "Myw",
+        "pos": "verb",
+        "definition": "amuse (someone), entertain, be fun to",
+        "seeAlso": [
+            "Fun"
+        ]
+    },
+    {
+        "word": "Nöb",
+        "pos": "noun",
+        "definition": "knob, handle, for holding or for opening a door"
+    },
+    {
+        "word": "Nöt",
+        "pos": "descriptor",
+        "definition": "not (makes a word false); no (in response to a question)"
+    },
+    {
+        "word": "Nam",
+        "pos": "noun",
+        "definition": "animal, creature"
+    },
+    {
+        "word": "Nap",
+        "pos": "noun",
+        "definition": "napkin, tissue"
+    },
+    {
+        "word": "Nec",
+        "pos": "noun",
+        "definition": "nature, phenomena not made by man",
+        "antonymDefinition": "artifice, man-made phenomena",
+        "keywords": [
+            "of course"
+        ]
+    },
+    {
+        "word": "Ned",
+        "pos": "preposition",
+        "definition": "instead (of something), in place of, rather than"
+    },
+    {
+        "word": "Nem",
+        "pos": "noun",
+        "definition": "name, title"
+    },
+    {
+        "word": "Ner",
+        "pos": "noun",
+        "definition": "energy",
+        "keywords": [
+            "power"
+        ]
+    },
+    {
+        "word": "Nes",
+        "pos": "descriptor",
+        "definition": "next, following",
+        "antonymDefinition": "previous, preceding, former",
+        "keywords": [
+            "last"
+        ]
+    },
+    {
+        "word": "Net",
+        "pos": "noun",
+        "definition": "net, mesh, network",
+        "seeAlso": [
+            "Web"
+        ]
+    },
+    {
+        "word": "Nev",
+        "pos": "noun",
+        "definition": "environment, setting, surroundings, context, circumstance"
+    },
+    {
+        "word": "Nic",
+        "pos": "verb",
+        "definition": "interest (someone), be interesting to, fascinate",
+        "antonymDefinition": "disinterest (someone)"
+    },
+    {
+        "word": "Nif",
+        "pos": "noun",
+        "definition": "information, data, signal"
+    },
+    {
+        "word": "Nin",
+        "pos": "descriptor",
+        "definition": "nine",
+        "keywords": ["9"]
+    },
+    {
+        "word": "Nol",
+        "pos": "descriptor",
+        "definition": "only, alone, by oneself, without anything else, without the assistance or company of other people; with no other action, with no other quality; in no other place"
+    },
+    {
+        "word": "Non",
+        "pos": "verb",
+        "definition": "know, be aware of, remember"
+    },
+    {
+        "word": "Nor",
+        "pos": "descriptor",
+        "definition": "north",
+        "antonymDefinition": "south"
+    },
+    {
+        "word": "Nos",
+        "pos": "verb",
+        "definition": "notice, become aware of"
+    },
+    {
+        "word": "Not",
+        "pos": "noun",
+        "definition": "note, a reminder for someone"
+    },
+    {
+        "word": "Noy",
+        "pos": "verb",
+        "definition": "annoy (someone), irritate",
+        "keywords": ["annoying"]
+    },
+    {
+        "word": "Nuf",
+        "pos": "descriptor",
+        "definition": "enough, sufficient",
+        "antonymDefinition": "not enough, insufficient"
+    },
+    {
+        "word": "Num",
+        "pos": "noun",
+        "definition": "number, quantity, amount (used for countable items)"
+    },
+    {
+        "word": "Nut",
+        "pos": "noun",
+        "definition": "nut"
+    },
+    {
+        "word": "Nuy",
+        "pos": "noun",
+        "definition": "I/me (the speaker)"
+    },
+    {
+        "word": "Nuz",
+        "pos": "noun",
+        "definition": "noise, sound"
+    },
+    {
+        "word": "Nwb",
+        "pos": "descriptor",
+        "definition": "new, young, recent, modern",
+        "antonymDefinition": "old, elderly, ancient",
+        "seeAlso": [
+            "Nwz"
+        ],
+        "keywords": ["kid", "child", "baby", "teen", "teenager"]
+    },
+    {
+        "word": "Nwz",
+        "pos": "noun",
+        "definition": "news, tabloid"
+    },
+    {
+        "word": "Nyd",
+        "pos": "verb",
+        "definition": "need, require, must"
+    },
+    {
+        "word": "Nyr",
+        "pos": "preposition",
+        "definition": "near, close to, around, along, within a small distance",
+        "antonymDefinition": "far from, away from",
+        "keywords": [
+            "distance"
+        ]
+    },
+    {
+        "word": "Nys",
+        "pos": "descriptor",
+        "definition": "nice, kind",
+        "antonymDefinition": "mean, rude, unkind, hostile, cruel"
+    },
+    {
+        "word": "Pök",
+        "pos": "noun",
+        "definition": "project"
+    },
+    {
+        "word": "Pöl",
+        "pos": "preposition",
+        "definition": "parallel to, along",
+        "antonymDefinition": "perpendicular to"
+    },
+    {
+        "word": "Pön",
+        "pos": "noun",
+        "definition": "horse, pony"
+    },
+    {
+        "word": "Pöp",
+        "pos": "descriptor",
+        "definition": "popular, cool, famous, well-known",
+        "antonymDefinition": "unpopular, obscure, little-known"
+    },
+    {
+        "word": "Pör",
+        "pos": "noun",
+        "definition": "part, piece, component, section, division, region"
+    },
+    {
+        "word": "Pös",
+        "pos": "noun",
+        "definition": "pasta"
+    },
+    {
+        "word": "Pad",
+        "pos": "noun",
+        "definition": "pattern, tiling, mosaic"
+    },
+    {
+        "word": "Pak",
+        "pos": "noun",
+        "definition": "plastic"
+    },
+    {
+        "word": "Pan",
+        "pos": "noun",
+        "definition": "pants, trousers"
+    },
+    {
+        "word": "Pat",
+        "pos": "noun",
+        "definition": "planet"
+    },
+    {
+        "word": "Pax",
+        "pos": "noun",
+        "definition": "path, pathway, passage, passageway",
+        "keywords": ["way"]
+    },
+    {
+        "word": "Ped",
+        "pos": "noun",
+        "definition": "party, festivity"
+    },
+    {
+        "word": "Pek",
+        "pos": "noun",
+        "definition": "picture, image"
+    },
+    {
+        "word": "Pel",
+        "pos": "noun",
+        "definition": "pencil"
+    },
+    {
+        "word": "Pen",
+        "pos": "noun",
+        "definition": "pen (for writing)"
+    },
+    {
+        "word": "Pep",
+        "pos": "noun",
+        "definition": "paper"
+    },
+    {
+        "word": "Per",
+        "pos": "noun",
+        "definition": "parent, mother, father",
+        "antonymDefinition": "child, offspring",
+        "keywords": ["mom", "mother", "dad", "father", "son", "daughter"]
+    },
+    {
+        "word": "Pig",
+        "pos": "noun",
+        "definition": "pig",
+        "keywords": ["hog", "boar"]
+    },
+    {
+        "word": "Pik",
+        "pos": "verb",
+        "definition": "pick (an option), choose, decide, select, vote for",
+        "keywords": ["setting", "option"]
+    },
+    {
+        "word": "Pil",
+        "pos": "noun",
+        "definition": "pillow, cushion"
+    },
+    {
+        "word": "Pin",
+        "pos": "noun",
+        "definition": "pain, ache"
+    },
+    {
+        "word": "Plö",
+        "pos": "verb",
+        "definition": "plan, scheme, draft"
+    },
+    {
+        "word": "Ple",
+        "pos": "verb",
+        "definition": "play (a game or instrument)"
+    },
+    {
+        "word": "Plo",
+        "pos": "noun",
+        "definition": "plant"
+    },
+    {
+        "word": "Plw",
+        "pos": "noun",
+        "definition": "place, position, region, area, location, point"
+    },
+    {
+        "word": "Ply",
+        "pos": "descriptor",
+        "definition": "(makes a verb imperative)",
+        "keywords": ["please"]
+    },
+    {
+        "word": "Pod",
+        "pos": "descriptor",
+        "definition": "proud",
+        "antonymDefinition": "ashamed, shameful",
+        "keywords": ["pride"]
+    },
+    {
+        "word": "Pog",
+        "pos": "noun",
+        "definition": "program (on a computer), application"
+    },
+    {
+        "word": "Pol",
+        "pos": "noun",
+        "definition": "police, security",
+        "seeAlso": ["Dej"]
+    },
+    {
+        "word": "Pon",
+        "pos": "verb",
+        "definition": "open (something)",
+        "antonymDefinition": "close (something)",
+        "seeAlso": ["Beg"]
+    },
+    {
+        "word": "Por",
+        "pos": "verb",
+        "definition": "pour (a substance), spill"
+    },
+    {
+        "word": "Pos",
+        "pos": "noun",
+        "definition": "price, cost"
+    },
+    {
+        "word": "Pot",
+        "pos": "noun",
+        "definition": "point, grade (a unit of score)"
+    },
+    {
+        "word": "Poy",
+        "pos": "descriptor",
+        "definition": "polite, civilized",
+        "antonymDefinition": "impolite, vulgar, uncivilized"
+    },
+    {
+        "word": "Poz",
+        "pos": "noun",
+        "definition": "prize, reward, award, bonus",
+        "antonymDefinition": "punishment, penalty"
+    },
+    {
+        "word": "Prö",
+        "pos": "descriptor",
+        "definition": "probable, likely",
+        "antonymDefinition": "improbable, unlikely",
+        "keywords": [
+            "chance",
+            "probability",
+            "luck",
+            "risk"
+        ]
+    },
+    {
+        "word": "Pre",
+        "pos": "verb",
+        "definition": "predict (something), expect, infer, assume, conclude, estimate, judge, guess",
+        "keywords": [
+            "random"
+        ]
+    },
+    {
+        "word": "Prl",
+        "pos": "descriptor",
+        "definition": "purple, violet",
+        "antonymDefinition": "yellow"
+    },
+    {
+        "word": "Pro",
+        "pos": "descriptor",
+        "definition": "professional, experienced, expert, skilled",
+        "antonymDefinition": "amateur, inexperienced",
+        "keywords": [
+            "good at"
+        ]
+    },
+    {
+        "word": "Prp",
+        "pos": "noun",
+        "definition": "purpose, aim, goal"
+    },
+    {
+        "word": "Prs",
+        "pos": "noun",
+        "definition": "person",
+        "keywords": [
+            "he",
+            "she",
+            "they",
+            "it",
+            "3rd person",
+            "third person"
+        ]
+    },
+    {
+        "word": "Prt",
+        "pos": "verb",
+        "definition": "buy, purchase",
+        "antonymDefinition": "sell, vend"
+    },
+    {
+        "word": "Prw",
+        "pos": "noun",
+        "definition": "problem, conflict, issue, drama, trouble, puzzle, challenge, flaw"
+    },
+    {
+        "word": "Pry",
+        "pos": "verb",
+        "definition": "practice (a skill), exercise, train oneself"
+    },
+    {
+        "word": "Pub",
+        "pos": "descriptor",
+        "definition": "public",
+        "antonymDefinition": "private"
+    },
+    {
+        "word": "Put",
+        "pos": "noun",
+        "definition": "potato"
+    },
+    {
+        "word": "Pwc",
+        "pos": "verb",
+        "definition": "push, apply a force, press, squeeze",
+        "antonymDefinition": "pull, stretch"
+    },
+    {
+        "word": "Pwn",
+        "pos": "noun",
+        "definition": "pound (a unit of weight)"
+    },
+    {
+        "word": "Pwr",
+        "pos": "descriptor",
+        "definition": "pure",
+        "antonymDefinition": "impure"
+    },
+    {
+        "word": "Pwt",
+        "pos": "verb",
+        "definition": "put, place, add, append",
+        "antonymDefinition": "remove, subtract"
+    },
+    {
+        "word": "Pyt",
+        "pos": "noun",
+        "definition": "pizza"
+    },
+    {
+        "word": "Röd",
+        "pos": "descriptor",
+        "definition": "ready, prepared",
+        "antonymDefinition": "unprepared"
+    },
+    {
+        "word": "Rök",
+        "pos": "noun",
+        "definition": "rock, stone"
+    },
+    {
+        "word": "Röt",
+        "pos": "noun",
+        "definition": "art"
+    },
+    {
+        "word": "Röx",
+        "pos": "noun",
+        "definition": "arthropod, animal with exoskeleton, insect, crustacean, bug"
+    },
+    {
+        "word": "Rad",
+        "pos": "noun",
+        "definition": "order, permutation, arrangement, organization"
+    },
+    {
+        "word": "Rek",
+        "pos": "noun",
+        "definition": "rectangle",
+        "keywords": [
+            "square"
+        ]
+    },
+    {
+        "word": "Rel",
+        "pos": "noun",
+        "definition": "rail, track (for holding or for trains)"
+    },
+    {
+        "word": "Ren",
+        "pos": "noun",
+        "definition": "rain, precipitation",
+        "keywords": [
+            "snow",
+            "hail"
+        ]
+    },
+    {
+        "word": "Rep",
+        "pos": "verb",
+        "definition": "respond (with an action), reply, react"
+    },
+    {
+        "word": "Req",
+        "pos": "descriptor",
+        "definition": "ranked, having a place in an order, -st/-nd/-rd/-th (a number will follow, used for ordinal numerals)"
+    },
+    {
+        "word": "Res",
+        "pos": "verb",
+        "definition": "rest (on something), lie, lay down, take a break, relax",
+        "keywords": [
+            "chill"
+        ]
+    },
+    {
+        "word": "Ret",
+        "pos": "verb",
+        "definition": "relate (to something)"
+    },
+    {
+        "word": "Rid",
+        "pos": "verb",
+        "definition": "ride (a vehicle or animal)"
+    },
+    {
+        "word": "Rin",
+        "pos": "noun",
+        "definition": "ornament, decoration"
+    },
+    {
+        "word": "Rit",
+        "pos": "verb",
+        "definition": "write (text)",
+        "antonymDefinition": "erase (text)",
+        "keywords": [
+            "message",
+            "text"
+        ]
+    },
+    {
+        "word": "Riv",
+        "pos": "noun",
+        "definition": "river, stream"
+    },
+    {
+        "word": "Rob",
+        "pos": "noun",
+        "definition": "rubber"
+    },
+    {
+        "word": "Rod",
+        "pos": "noun",
+        "definition": "road, street"
+    },
+    {
+        "word": "Rog",
+        "pos": "verb",
+        "definition": "organize (something), sort, make neat",
+        "antonymDefinition": "disorganize (something), stir, mix, scramble"
+    },
+    {
+        "word": "Ron",
+        "pos": "noun",
+        "definition": "range, span, length, interval"
+    },
+    {
+        "word": "Rov",
+        "pos": "preposition",
+        "definition": "over, above, high",
+        "antonymDefinition": "below, under, low"
+    },
+    {
+        "word": "Rox",
+        "pos": "noun",
+        "definition": "Earth (the planet)"
+    },
+    {
+        "word": "Rub",
+        "pos": "verb",
+        "definition": "rub (on a surface), drag, grind"
+    },
+    {
+        "word": "Rug",
+        "pos": "noun",
+        "definition": "rug, carpet, mat"
+    },
+    {
+        "word": "Run",
+        "pos": "verb",
+        "definition": "run (on something), sprint"
+    },
+    {
+        "word": "Rus",
+        "pos": "noun",
+        "definition": "rice"
+    },
+    {
+        "word": "Rut",
+        "pos": "noun",
+        "definition": "reptile",
+        "keywords": [
+            "crocodile",
+            "alligator",
+            "lizard",
+            "snake",
+            "turtle",
+            "tortoise",
+            "dinosaur",
+            "dragon"
+        ]
+    },
+    {
+        "word": "Rwm",
+        "pos": "noun",
+        "definition": "room, chamber"
+    },
+    {
+        "word": "Rwv",
+        "pos": "verb",
+        "definition": "approve, confirm, praise, support",
+        "antonymDefinition": "disapprove, reject, deny, scold"
+    },
+    {
+        "word": "Ryc",
+        "pos": "verb",
+        "definition": "reach (for something)"
+    },
+    {
+        "word": "Ryd",
+        "pos": "verb",
+        "definition": "read (text)"
+    },
+    {
+        "word": "Ryn",
+        "pos": "noun",
+        "definition": "rodent",
+        "keywords": [
+            "rat",
+            "mouse",
+            "squirrel",
+            "gopher",
+            "capybara"
+        ]
+    },
+    {
+        "word": "Rys",
+        "pos": "noun",
+        "definition": "resource, nutrient, supply"
+    },
+    {
+        "word": "Söf",
+        "pos": "descriptor",
+        "definition": "soft, flexible",
+        "antonymDefinition": "hard, firm, stiff, rigid, inflexible"
+    },
+    {
+        "word": "Sök",
+        "pos": "noun",
+        "definition": "sock"
+    },
+    {
+        "word": "Söl",
+        "pos": "noun",
+        "definition": "solid (a state of matter)"
+    },
+    {
+        "word": "Sön",
+        "pos": "verb",
+        "definition": "stand (on a surface)"
+    },
+    {
+        "word": "Sör",
+        "pos": "noun",
+        "definition": "stair, step"
+    },
+    {
+        "word": "Sös",
+        "pos": "noun",
+        "definition": "sauce"
+    },
+    {
+        "word": "Söt",
+        "pos": "noun",
+        "definition": "salt"
+    },
+    {
+        "word": "Söv",
+        "pos": "verb",
+        "definition": "solve (something), repair, fix, cure"
+    },
+    {
+        "word": "Sac",
+        "pos": "noun",
+        "definition": "sandwich",
+        "keywords": [
+            "burger",
+            "hamburger"
+        ]
+    },
+    {
+        "word": "Sal",
+        "pos": "noun",
+        "definition": "salad"
+    },
+    {
+        "word": "San",
+        "pos": "noun",
+        "definition": "sand",
+        "keywords": [
+            "desert"
+        ]
+    },
+    {
+        "word": "Sat",
+        "pos": "noun",
+        "definition": "status, state, mode"
+    },
+    {
+        "word": "Saw",
+        "pos": "descriptor",
+        "definition": "sour",
+        "keywords": [
+            "lemon"
+        ]
+    },
+    {
+        "word": "Seb",
+        "pos": "verb",
+        "definition": "celebrate (something)"
+    },
+    {
+        "word": "Sed",
+        "pos": "verb",
+        "definition": "send (something), submit"
+    },
+    {
+        "word": "Sef",
+        "pos": "noun",
+        "definition": "self, himself, herself, itself, ourselves, themselves, yourself, yourselves (causes the verb to be reflexive, refers to the subject of the containing clause)"
+    },
+    {
+        "word": "Sek",
+        "pos": "noun",
+        "definition": "ceramic, porcelain",
+        "keywords": [
+            "clay"
+        ]
+    },
+    {
+        "word": "Sel",
+        "pos": "noun",
+        "definition": "cell (part of an organism)",
+        "keywords": [
+            "tissue"
+        ]
+    },
+    {
+        "word": "Sen",
+        "pos": "noun",
+        "definition": "sentence"
+    },
+    {
+        "word": "Set",
+        "pos": "noun",
+        "definition": "system"
+    },
+    {
+        "word": "Sev",
+        "pos": "descriptor",
+        "definition": "seven",
+        "keywords": [
+            "7"
+        ]
+    },
+    {
+        "word": "Sey",
+        "pos": "verb",
+        "definition": "say (something), speak, talk, tell, communicate, state",
+        "keywords": [
+            "speech",
+            "communication",
+            "statement",
+            "comment"
+        ]
+    },
+    {
+        "word": "Sib",
+        "pos": "noun",
+        "definition": "sibling, brother, sister",
+        "keywords": [
+            "cousin"
+        ]
+    },
+    {
+        "word": "Sic",
+        "pos": "noun",
+        "definition": "string, thread, lace, rope"
+    },
+    {
+        "word": "Sik",
+        "pos": "descriptor",
+        "definition": "six",
+        "keywords": [
+            "6"
+        ]
+    },
+    {
+        "word": "Sil",
+        "pos": "descriptor",
+        "definition": "cylinder, bar, tube, pipe",
+        "keywords": [
+            "stick"
+        ]
+    },
+    {
+        "word": "Sim",
+        "pos": "noun",
+        "definition": "symbol, letter, digit, character"
+    },
+    {
+        "word": "Sit",
+        "pos": "verb",
+        "definition": "sit (on a surface)"
+    },
+    {
+        "word": "Ske",
+        "pos": "verb",
+        "definition": "scare, frighten",
+        "antonymDefinition": "reassure, console",
+        "keywords": [
+            "horror",
+            "terror"
+        ]
+    },
+    {
+        "word": "Sko",
+        "pos": "noun",
+        "definition": "screen, monitor, display"
+    },
+    {
+        "word": "Skr",
+        "pos": "verb",
+        "definition": "scratch, scrape"
+    },
+    {
+        "word": "Skw",
+        "pos": "noun",
+        "definition": "school, college, university"
+    },
+    {
+        "word": "Sky",
+        "pos": "noun",
+        "definition": "sky"
+    },
+    {
+        "word": "Sle",
+        "pos": "verb",
+        "definition": "slide (on something), glide, slip",
+        "seeAlso": [
+            "Fro"
+        ]
+    },
+    {
+        "word": "Slw",
+        "pos": "noun",
+        "definition": "slope, incline, ramp"
+    },
+    {
+        "word": "Sly",
+        "pos": "verb",
+        "definition": "sleep (on something)",
+        "antonymDefinition": "be awake (on something)"
+    },
+    {
+        "word": "Sme",
+        "pos": "noun",
+        "definition": "smell, odor, scent",
+        "keywords": [
+            "nose"
+        ]
+    },
+    {
+        "word": "Sod",
+        "pos": "noun",
+        "definition": "soda"
+    },
+    {
+        "word": "Sop",
+        "pos": "noun",
+        "definition": "soap"
+    },
+    {
+        "word": "Soq",
+        "pos": "descriptor",
+        "definition": "strong, fit, powerful",
+        "antonymDefinition": "weak"
+    },
+    {
+        "word": "Sot",
+        "pos": "noun",
+        "definition": "science"
+    },
+    {
+        "word": "Spe",
+        "pos": "descriptor",
+        "definition": "special, original, unique, custom"
+    },
+    {
+        "word": "Spr",
+        "pos": "verb",
+        "definition": "spread (something)"
+    },
+    {
+        "word": "Spw",
+        "pos": "noun",
+        "definition": "space, void, gap, vacuum (the absence of anything)"
+    },
+    {
+        "word": "Spy",
+        "pos": "descriptor",
+        "definition": "spicy, hot"
+    },
+    {
+        "word": "Srf",
+        "pos": "noun",
+        "definition": "surface, skin, hide"
+    },
+    {
+        "word": "Srk",
+        "pos": "noun",
+        "definition": "circle, disk",
+        "seeAlso": [
+            "Sil"
+        ],
+        "keywords": [
+            "disc"
+        ]
+    },
+    {
+        "word": "Srt",
+        "pos": "descriptor",
+        "definition": "straight, direct, extending or moving in one direction only, literal"
+    },
+    {
+        "word": "Stö",
+        "pos": "noun",
+        "definition": "start, beginning, the start of an object or span",
+        "antonymDefinition": "end, the end of an object or span"
+    },
+    {
+        "word": "Ste",
+        "pos": "verb",
+        "definition": "stay (in a group), remain, continue to be"
+    },
+    {
+        "word": "Sto",
+        "pos": "noun",
+        "definition": "story, tale, rumor"
+    },
+    {
+        "word": "Str",
+        "pos": "noun",
+        "definition": "star, sun"
+    },
+    {
+        "word": "Stw",
+        "pos": "verb",
+        "definition": "stick to (something), adhere to",
+        "keywords": [
+            "glue",
+            "tape"
+        ]
+    },
+    {
+        "word": "Sty",
+        "pos": "descriptor",
+        "definition": "not moving, still, static; still true",
+        "antonymDefinition": "moving, dynamic"
+    },
+    {
+        "word": "Sud",
+        "pos": "noun",
+        "definition": "side, face (of an object)"
+    },
+    {
+        "word": "Sug",
+        "pos": "verb",
+        "definition": "suggest (to do something), advise, direct, instruct, guide, lead"
+    },
+    {
+        "word": "Sum",
+        "pos": "descriptor",
+        "definition": "some, a, an, a particular instance of (previously unmentioned)",
+        "keywords": ["indefinite"]
+    },
+    {
+        "word": "Sup",
+        "pos": "verb",
+        "definition": "suppose (that something is true), have an opinion, think that, believe",
+        "antonymDefinition": "doubt, deny, not believe"
+    },
+    {
+        "word": "Suy",
+        "pos": "noun",
+        "definition": "sign"
+    },
+    {
+        "word": "Swo",
+        "pos": "noun",
+        "definition": "switch (for making and breaking a circuit)",
+        "keywords": [
+            "Ler"
+        ]
+    },
+    {
+        "word": "Swp",
+        "pos": "noun",
+        "definition": "soup"
+    },
+    {
+        "word": "Swy",
+        "pos": "descriptor",
+        "definition": "sweet"
+    },
+    {
+        "word": "Syc",
+        "pos": "verb",
+        "definition": "see (something)",
+        "keywords": ["look"]
+    },
+    {
+        "word": "Syd",
+        "pos": "noun",
+        "definition": "seed"
+    },
+    {
+        "word": "Sym",
+        "pos": "verb",
+        "definition": "seem like (something), appear to be, look like"
+    },
+    {
+        "word": "Tak",
+        "pos": "verb",
+        "definition": "trick (someone), deceive, fool"
+    },
+    {
+        "word": "Tan",
+        "pos": "noun",
+        "definition": "town, village, city"
+    },
+    {
+        "word": "Tas",
+        "pos": "noun",
+        "definition": "task, job, process (on a computer)",
+        "seeAlso": [
+            "Jöb"
+        ]
+    },
+    {
+        "word": "Tcö",
+        "pos": "noun",
+        "definition": "chocolate"
+    },
+    {
+        "word": "Tce",
+        "pos": "verb",
+        "definition": "change (something), make different, modify, alter, transform, edit"
+    },
+    {
+        "word": "Tco",
+        "pos": "noun",
+        "definition": "chair, couch"
+    },
+    {
+        "word": "Tcr",
+        "pos": "verb",
+        "definition": "try (something), attempt, make an effort",
+        "antonymDefinition": "avoid (doing something)"
+    },
+    {
+        "word": "Tcw",
+        "pos": "descriptor",
+        "definition": "true, in fact, did, indeed; yes (in response to a question)",
+        "antonymDefinition": "false"
+    },
+    {
+        "word": "Tcy",
+        "pos": "noun",
+        "definition": "cheese"
+    },
+    {
+        "word": "Teb",
+        "pos": "noun",
+        "definition": "table, desk"
+    },
+    {
+        "word": "Tec",
+        "pos": "noun",
+        "definition": "texture (how something feels)"
+    },
+    {
+        "word": "Tem",
+        "pos": "noun",
+        "definition": "time, period, moment (either a specific point or a span)"
+    },
+    {
+        "word": "Tep",
+        "pos": "verb",
+        "definition": "taper (to a point), gradually become narrow until converging, be sharp toward",
+        "keywords": [
+            "point",
+            "tip",
+            "spike",
+            "pyramid",
+            "cone"
+        ]
+    },
+    {
+        "word": "Tes",
+        "pos": "verb",
+        "definition": "test, experiment (with something)"
+    },
+    {
+        "word": "Tey",
+        "pos": "verb",
+        "definition": "take (something), actively remove, steal",
+        "antonymDefinition": "give, donate, contribute, provide, share",
+        "keywords": [
+            "gift",
+            "present"
+        ]
+    },
+    {
+        "word": "Til",
+        "pos": "preposition",
+        "definition": "until"
+    },
+    {
+        "word": "Tis",
+        "pos": "noun",
+        "definition": "taste, flavor"
+    },
+    {
+        "word": "Tok",
+        "pos": "verb",
+        "definition": "check, inspect, see the status of something"
+    },
+    {
+        "word": "Tor",
+        "pos": "noun",
+        "definition": "tree"
+    },
+    {
+        "word": "Tos",
+        "pos": "verb",
+        "definition": "chase (someone/something), pursue, aim",
+        "antonymDefinition": "avoid, refrain from, keep away from, flee"
+    },
+    {
+        "word": "Tot",
+        "pos": "descriptor",
+        "definition": "total, entire, whole, full, complete"
+    },
+    {
+        "word": "Toy",
+        "pos": "noun",
+        "definition": "toy"
+    },
+    {
+        "word": "Trg",
+        "pos": "descriptor",
+        "definition": "together, with each other, concentrated",
+        "antonymDefinition": "separate, apart"
+    },
+    {
+        "word": "Trn",
+        "pos": "verb",
+        "definition": "turn (something), rotate, change the orientation of, aim, roll, spin"
+    },
+    {
+        "word": "Trp",
+        "pos": "verb",
+        "definition": "capture, trap, catch, jail",
+        "antonymDefinition": "release, let go",
+        "keywords": [
+            "prison"
+        ]
+    },
+    {
+        "word": "Tuc",
+        "pos": "verb",
+        "definition": "touch, make contact with"
+    },
+    {
+        "word": "Tum",
+        "pos": "noun",
+        "definition": "tomato"
+    },
+    {
+        "word": "Tuy",
+        "pos": "verb",
+        "definition": "tie (a string)",
+        "antonymDefinition": "untie"
+    },
+    {
+        "word": "Twc",
+        "pos": "descriptor",
+        "definition": "too, excessive, to too much of an extent"
+    },
+    {
+        "word": "Twl",
+        "pos": "noun",
+        "definition": "tool, utility"
+    },
+    {
+        "word": "Twn",
+        "pos": "descriptor",
+        "definition": "two",
+        "keywords": ["2"]
+    },
+    {
+        "word": "Twr",
+        "pos": "preposition",
+        "definition": "to, towards, in the direction of",
+        "antonymDefinition": "from, away from"
+    },
+    {
+        "word": "Tws",
+        "pos": "verb",
+        "definition": "trust, rely on, depend on"
+    },
+    {
+        "word": "Tyc",
+        "pos": "verb",
+        "definition": "teach, educate"
+    },
+    {
+        "word": "Tym",
+        "pos": "noun",
+        "definition": "team, group, committee, assembly"
+    },
+    {
+        "word": "Völ",
+        "pos": "descriptor",
+        "definition": "already"
+    },
+    {
+        "word": "Vöt",
+        "pos": "descriptor",
+        "definition": "(modifies a word to the opposite of its meaning)"
+    },
+    {
+        "word": "Vak",
+        "pos": "noun",
+        "definition": "axle, rotor (used in a hinge)"
+    },
+    {
+        "word": "Val",
+        "pos": "noun",
+        "definition": "value, worth"
+    },
+    {
+        "word": "Van",
+        "pos": "preposition",
+        "definition": "and"
+    },
+    {
+        "word": "Vat",
+        "pos": "preposition",
+        "definition": "at"
+    },
+    {
+        "word": "Vaz",
+        "pos": "descriptor",
+        "definition": "as, to a certain extent, so"
+    },
+    {
+        "word": "Vej",
+        "pos": "noun",
+        "definition": "vegetable"
+    },
+    {
+        "word": "Vek",
+        "pos": "verb",
+        "definition": "excite (someone), make eager",
+        "antonymDefinition": "bore, be boring to"
+    },
+    {
+        "word": "Vel",
+        "pos": "descriptor",
+        "definition": "available, accessible",
+        "antonymDefinition": "unavailable, inaccessible"
+    },
+    {
+        "word": "Veq",
+        "pos": "noun",
+        "definition": "angle, degree measure, corner, joint, hinge",
+        "keywords": ["elbow", "knee"]
+    },
+    {
+        "word": "Ver",
+        "pos": "descriptor",
+        "definition": "very, to a great extent, quite",
+        "antonymDefinition": "a little, a bit, not much, slight"
+    },
+    {
+        "word": "Vet",
+        "pos": "descriptor",
+        "definition": "vertical (parallel to gravity)"
+    },
+    {
+        "word": "Vid",
+        "pos": "noun",
+        "definition": "video, movie"
+    },
+    {
+        "word": "Vim",
+        "pos": "descriptor",
+        "definition": "important, serious, matter, relevant, significant",
+        "antonymDefinition": "unimportant, irrelevant, insignificant"
+    },
+    {
+        "word": "Vis",
+        "pos": "descriptor",
+        "definition": "viscous, thick, gooey",
+        "antonymDefinition": "thin, runny"
+    },
+    {
+        "word": "Vit",
+        "pos": "verb",
+        "definition": "visit, be a guest at, tour",
+        "keywords": ["trip"]
+    },
+    {
+        "word": "Viz",
+        "pos": "verb",
+        "copula": true,
+        "definition": "be (an instance/kind of)"
+    },
+    {
+        "word": "Vok",
+        "pos": "noun",
+        "definition": "vehicle"
+    },
+    {
+        "word": "Vot",
+        "pos": "descriptor",
+        "definition": "eight",
+        "keywords": ["8"]
+    },
+    {
+        "word": "Vun",
+        "pos": "preposition",
+        "definition": "of, originating from, possessed by, related to"
+    },
+    {
+        "word": "Vwd",
+        "pos": "descriptor",
+        "definition": "would (conditional or hypothetical)"
+    },
+    {
+        "word": "Vwn",
+        "pos": "noun",
+        "definition": "oven, stove, grill"
+    },
+    {
+        "word": "Vyn",
+        "pos": "descriptor",
+        "definition": "even (emphasizes something surprising or extreme)"
+    },
+    {
+        "word": "Wök",
+        "pos": "verb",
+        "definition": "walk (on something)"
+    },
+    {
+        "word": "Wöl",
+        "pos": "noun",
+        "definition": "wall, fence"
+    },
+    {
+        "word": "Wön",
+        "pos": "verb",
+        "definition": "want, wish for, hope for, seek, dream of"
+    },
+    {
+        "word": "Wöt",
+        "pos": "noun",
+        "definition": "water",
+        "keywords": ["ice", "boat", "ship", "swim"]
+    },
+    {
+        "word": "Weð",
+        "pos": "descriptor",
+        "definition": "whether (expresses the truth of a situation noun)"
+    },
+    {
+        "word": "Web",
+        "pos": "noun",
+        "definition": "web, internet"
+    },
+    {
+        "word": "Wed",
+        "pos": "noun",
+        "definition": "word, term"
+    },
+    {
+        "word": "Weg",
+        "pos": "verb",
+        "definition": "wait (for something)"
+    },
+    {
+        "word": "Wek",
+        "pos": "verb",
+        "definition": "work (on something), do labor"
+    },
+    {
+        "word": "Wel",
+        "pos": "preposition",
+        "definition": "while, during, for, for the duration of, from the start to the end of"
+    },
+    {
+        "word": "Wer",
+        "pos": "verb",
+        "definition": "wear (an article)"
+    },
+    {
+        "word": "Wet",
+        "pos": "descriptor",
+        "definition": "wet, damp",
+        "antonymDefinition": "dry"
+    },
+    {
+        "word": "Wev",
+        "pos": "verb",
+        "definition": "wave (something), move back and forth, swing"
+    },
+    {
+        "word": "Wey",
+        "pos": "noun",
+        "definition": "way, method, means, manner, mode, fashion"
+    },
+    {
+        "word": "Wic",
+        "pos": "noun",
+        "definition": "wind, gust, breeze"
+    },
+    {
+        "word": "Wid",
+        "pos": "noun",
+        "definition": "window"
+    },
+    {
+        "word": "Wil",
+        "pos": "descriptor",
+        "definition": "will, going to (causes a verb to be in the future tense); happening in the future"
+    },
+    {
+        "word": "Wim",
+        "pos": "descriptor",
+        "definition": "which, whom (extracts the direct or prepositional object from a situation noun so that the object takes the place of the situation noun in the parent clause)"
+    },
+    {
+        "word": "Win",
+        "pos": "verb",
+        "definition": "win (a competition), be victorious in, succeed at",
+        "antonymDefinition": "lose (a competition), fail at",
+        "keywords": [
+            "success"
+        ]
+    },
+    {
+        "word": "Wis",
+        "pos": "descriptor",
+        "definition": "which, who (extracts the subject from a situation noun so that the subject takes the place of the situation noun in the parent clause)"
+    },
+    {
+        "word": "Wit",
+        "pos": "descriptor",
+        "definition": "which, what (interrogative identity)"
+    },
+    {
+        "word": "Wix",
+        "pos": "preposition",
+        "definition": "with, along with, accompanied by"
+    },
+    {
+        "word": "Woð",
+        "pos": "noun",
+        "definition": "weather, climate"
+    },
+    {
+        "word": "Wod",
+        "pos": "descriptor",
+        "definition": "wide",
+        "antonymDefinition": "narrow"
+    },
+    {
+        "word": "Wol",
+        "pos": "noun",
+        "definition": "world"
+    },
+    {
+        "word": "Wom",
+        "pos": "descriptor",
+        "definition": "warm (a little hot)",
+        "antonymDefinition": "cool (a little cold)",
+        "keywords": ["temperature", "heat"]
+    },
+    {
+        "word": "Wor",
+        "pos": "noun",
+        "definition": "war, battle, combat, fight",
+        "antonymDefinition": "peace"
+    },
+    {
+        "word": "Wun",
+        "pos": "descriptor",
+        "definition": "one",
+        "keywords": [
+            "1"
+        ]
+    },
+    {
+        "word": "Wuz",
+        "pos": "descriptor",
+        "definition": "was, -ed (causes a verb to be in the past tense)"
+    },
+    {
+        "word": "Wyl",
+        "pos": "noun",
+        "definition": "wheel"
+    },
+    {
+        "word": "Wyn",
+        "pos": "descriptor",
+        "definition": "on, active, doing something",
+        "antonymDefinition": "off, inactive, dormant, not doing anything"
+    },
+    {
+        "word": "Wys",
+        "pos": "descriptor",
+        "definition": "white",
+        "antonymDefinition": "black"
+    },
+    {
+        "word": "Wyt",
+        "pos": "noun",
+        "definition": "wheat"
+    },
+    {
+        "word": "Xik",
+        "pos": "descriptor",
+        "definition": "thick (large in the tertiary direction), fat",
+        "antonymDefinition": "thin, skinny, slim"
+    },
+    {
+        "word": "Xiq",
+        "pos": "noun",
+        "definition": "thing (the most general noun)"
+    },
+    {
+        "word": "Xok",
+        "pos": "verb",
+        "definition": "think (about something), analyze, imagine"
+    },
+    {
+        "word": "Xro",
+        "pos": "verb",
+        "definition": "throw (something), toss"
+    },
+    {
+        "word": "Xrw",
+        "pos": "preposition",
+        "definition": "through, in and out of"
+    },
+    {
+        "word": "Xry",
+        "pos": "descriptor",
+        "definition": "three",
+        "keywords": [
+            "3"
+        ]
+    },
+    {
+        "word": "Yer",
+        "pos": "noun",
+        "definition": "year"
+    },
+    {
+        "word": "Yol",
+        "pos": "noun",
+        "definition": "oil, petroleum"
+    },
+    {
+        "word": "Yos",
+        "pos": "descriptor",
+        "definition": "east",
+        "antonymDefinition": "west"
+    },
+    {
+        "word": "Yot",
+        "pos": "verb",
+        "definition": "eat (something), consume, drink",
+        "antonymDefinition": "defecate, excrete, urinate",
+        "keywords": [
+            "shit",
+            "poop",
+            "piss",
+            "pee"
+        ]
+    },
+    {
+        "word": "Ywl",
+        "pos": "descriptor",
+        "definition": "useful, helpful",
+        "antonymDefinition": "useless, unhelpful",
+        "keywords": ["utility"]
+    },
+    {
+        "word": "Ywn",
+        "pos": "noun",
+        "definition": "you (the person being addressed)"
+    },
+    {
+        "word": "Ywt",
+        "pos": "noun",
+        "definition": "unit",
+        "keywords": [
+            "meter",
+            "gram",
+            "kilogram",
+            "liter"
+        ]
+    },
+    {
+        "word": "Ywz",
+        "pos": "verb",
+        "definition": "use, spend"
+    },
+    {
+        "word": "Zam",
+        "pos": "noun",
+        "definition": "example, model"
+    },
+    {
+        "word": "Zyp",
+        "pos": "descriptor",
+        "definition": "easy",
+        "antonymDefinition": "difficult, hard, tricky"
+    },
+    {
+        "word": "Zyr",
+        "pos": "descriptor",
+        "definition": "zero",
+        "keywords": [
+            "0"
+        ]
+    }
+]
