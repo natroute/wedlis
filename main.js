@@ -38,6 +38,7 @@ class Entry {
 const entries = [];
 
 const searchInputE = document.querySelector('#search-input');
+const mobileSearchInputE = document.querySelector('#mobile-search-input');
 const themeButtonE = document.querySelector('#theme-button');
 const wordsE = document.querySelector('#words');
 
@@ -72,10 +73,8 @@ for (const entry of data) {
 	wordsE.append(entryE);
 }
 
-searchInputE.addEventListener('input', e => {
-	const query = e.target.value;
-
-	const wordMatches = new Set();
+function search(query) {
+		const wordMatches = new Set();
 	const definitionWholeMatches = new Set();
 	const definitionMatches = new Set();
 	const keywordMatches = new Map();
@@ -127,6 +126,14 @@ searchInputE.addEventListener('input', e => {
 			entry.hintE.append($('strong', keyword));
 		}
 	}
+}
+
+searchInputE.addEventListener('input', e => {
+	search(e.target.value);
+});
+
+mobileSearchInputE.addEventListener('input', e => {
+	search(e.target.value);
 });
 
 themeButtonE.addEventListener('click', () => {

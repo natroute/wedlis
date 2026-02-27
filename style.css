@@ -43,7 +43,7 @@ body {
 	display: flex;
 }
 
-#app > * {
+.app-section {
 	padding: 30px 15px;
 }
 
@@ -132,6 +132,10 @@ i[data-lucide] {
 	box-sizing: border-box;
 }
 
+#mobile-search-input {
+	display: none;
+}
+
 main {
 	flex: 1 0 0;
 	height: 100%;
@@ -197,10 +201,11 @@ main {
 
 @media (max-width: 700px) {
 	#app {
+		margin-top: calc(1lh + 44px);
 		flex-direction: column;
 	}
 
-	#app > * {
+	.app-section {
 		padding: 20px 15px;
 	}
 
@@ -210,17 +215,26 @@ main {
 		flex: 0;
 		gap: .7em;
 		background: var(--color-background-1);
+		border-top: 1px solid var(--color-border);
 		border-bottom: 1px solid var(--color-border);
 		box-shadow: 0 2px 5px var(--color-shadow);
+		overflow: visible;
+	}
+
+	#mobile-search-input {
+		display: block;
+		position: fixed;
+		top: 15px;
+		left: 15px;
+		right: 15px;
+	}
+
+	#search-input {
+		display: none;
 	}
 
 	#sidebar button, #sidebar input {
 		background: var(--color-background-2);
-	}
-
-	#search-input {
-		position: sticky;
-		top: 0;
 	}
 
 	.entry, .entry-main {
