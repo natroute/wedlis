@@ -74,12 +74,12 @@ for (const entry of data) {
 }
 
 function search(query) {
-		const wordMatches = new Set();
+	const wordMatches = new Set();
 	const definitionWholeMatches = new Set();
 	const definitionMatches = new Set();
 	const keywordMatches = new Map();
 
-	const escaped = escapeRegExp(query);
+	const escaped = escapeRegExp(query).toLowerCase().replace('0', '[0ö]').replace('9', '[9ð]');
 	const queryRegex = new RegExp(escaped, 'i');
 	const queryWholeRegex = new RegExp(`\\b${escaped}\\b`, 'i');
 
