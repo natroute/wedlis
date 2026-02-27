@@ -996,7 +996,8 @@
     {
         "word": "Her",
         "pos": "noun",
-        "definition": "hair, fur, wool"
+        "definition": "hair, fur, wool",
+        "keywords": ["mustache", "beard"]
     },
     {
         "word": "Hev",
@@ -1318,7 +1319,8 @@
     {
         "word": "Koy",
         "pos": "verb",
-        "definition": "contain, include, encompass"
+        "definition": "contain, include, encompass",
+        "keywords": ["container", "box"]
     },
     {
         "word": "Krö",
