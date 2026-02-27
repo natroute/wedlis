@@ -24,12 +24,13 @@ function escapeRegExp(str) {
 }
 
 class Entry {
-	constructor(word, pos, definition, antonymDefinition, keywords, elem, hintE) {
+	constructor(word, pos, definition, antonymDefinition, keywords, category, elem, hintE) {
 		this.word = word;
 		this.pos = pos;
 		this.definition = definition;
 		this.antonymDefinition = antonymDefinition;
 		this.keywords = keywords;
+		this.category = category;
 		this.elem = elem;
 		this.hintE = hintE;
 	}
@@ -40,6 +41,7 @@ const entries = [];
 const searchInputE = document.querySelector('#search-input');
 const mobileSearchInputE = document.querySelector('#mobile-search-input');
 const themeButtonE = document.querySelector('#theme-button');
+const categoryInputsBodyE = document.querySelector('#category-inputs-body');
 const wordsE = document.querySelector('#words');
 
 const data = await (await fetch('data.json')).json();
@@ -69,11 +71,15 @@ for (const entry of data) {
 		);
 	}
 
-	entries.push(new Entry(entry.word, entry.pos, entry.definition, entry.antonymDefinition, entry.keywords ?? [], entryE, entryHintE));
-	wordsE.append(entryE);
+	entries.push(new Entry(entry.word, entry.pos, entry.definition, entry.antonymDefinition, entry.keywords ?? [], entry.category, entryE, entryHintE));
 }
 
-function search(query) {
+const search = {
+	query: '',
+	categories: new Set(['official'])
+};
+
+function updateSearch({ query, categories }) {
 	const wordMatches = new Set();
 	const definitionWholeMatches = new Set();
 	const definitionMatches = new Set();
@@ -85,6 +91,9 @@ function search(query) {
 
 	for (const entry of entries) {
 		entry.hintE.innerHTML = '';
+
+		if (!categories.has(entry.category))
+			continue;
 
 		if (queryWholeRegex.test(entry.definition) || queryWholeRegex.test(entry.antonymDefinition)) {
 			definitionWholeMatches.add(entry);
@@ -128,14 +137,28 @@ function search(query) {
 	}
 }
 
+updateSearch(search);
+
 searchInputE.addEventListener('input', e => {
-	search(e.target.value);
+	search.query = e.target.value;
+	updateSearch(search);
 });
 
 mobileSearchInputE.addEventListener('input', e => {
-	search(e.target.value);
+	search.query = e.target.value;
+	updateSearch(search);
 });
 
 themeButtonE.addEventListener('click', () => {
 	document.documentElement.classList.toggle('dark');
+});
+
+categoryInputsBodyE.addEventListener('change', e => {
+	if (e.target.checked) {
+		search.categories.add(e.target.name);
+	} else {
+		search.categories.delete(e.target.name);
+	}
+	console.log(search);
+	updateSearch(search);
 });

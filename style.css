@@ -74,16 +74,15 @@ body {
 	gap: .7em;
 }
 
-h1 {
+p, h1, h2, h3, h4, h5, h6 {
 	margin: 0;
+}
+
+h1 {
 	display: flex;
 	align-items: center;
 	gap: .7em;
 	font-size: 1.2em;
-}
-
-p {
-	margin: 0;
 }
 
 a {
@@ -150,6 +149,12 @@ main {
 	gap: .7em;
 }
 
+#words:empty::before {
+	content: 'No words found. Check the selected categories.';
+	display: block;
+	font-weight: bold;
+}
+
 .entry {
 	display: flex;
 	gap: .5em;
@@ -201,6 +206,40 @@ main {
 	font-size: 1.1em;
 }
 
+#category-inputs {
+	padding: 15px;
+	border-radius: 6px;
+	border: 1px solid var(--color-border);
+	background: var(--color-background-1);
+
+	width: 100%;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	gap: .5em;
+}
+
+#category-inputs > h3 {
+	font-size: 1.1em;
+}
+
+#category-inputs-body {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	gap: .3em;
+}
+
+#category-inputs-body > div {
+	display: flex;
+	align-items: baseline;
+	gap: .5em;
+}
+
+#category-inputs-body label {
+	flex: 1 0 0;
+}
+
 @media (max-width: 700px) {
 	#app {
 		margin-top: calc(1lh + 44px);
@@ -216,7 +255,6 @@ main {
 		align-self: stretch;
 		flex: 0;
 		gap: .7em;
-		background: var(--color-background-1);
 		border-top: 1px solid var(--color-border);
 		border-bottom: 1px solid var(--color-border);
 		box-shadow: 0 2px 5px var(--color-shadow);
@@ -234,10 +272,6 @@ main {
 
 	#search-input {
 		display: none;
-	}
-
-	#sidebar button, #sidebar input {
-		background: var(--color-background-2);
 	}
 
 	.entry, .entry-main {
