@@ -1681,7 +1681,8 @@
     {
         "word": "Mid",
         "pos": "noun",
-        "definition": "middle, centre"
+        "definition": "middle, center",
+        "keywords": ["centre"]
     },
     {
         "word": "Mil",
@@ -1691,12 +1692,13 @@
     {
         "word": "Min",
         "pos": "noun",
-        "definition": "minute"
+        "definition": "minute",
+        "keywords": ["hour"]
     },
     {
         "word": "Mis",
         "pos": "noun",
-        "definition": "mistake, accident"
+        "definition": "mistake, accident, error"
     },
     {
         "word": "Mit",
@@ -1706,7 +1708,8 @@
     {
         "word": "Mod",
         "pos": "noun",
-        "definition": "metal"
+        "definition": "metal",
+        "keywords": ["iron", "gold", "copper", "mercury"]
     },
     {
         "word": "Mok",
@@ -1769,7 +1772,8 @@
     {
         "word": "Mwz",
         "pos": "noun",
-        "definition": "music"
+        "definition": "music",
+        "keywords": ["song", "sing"]
     },
     {
         "word": "Myn",
@@ -1802,7 +1806,7 @@
     {
         "word": "Nam",
         "pos": "noun",
-        "definition": "animal, creature"
+        "definition": "animal, creature, beast, monster"
     },
     {
         "word": "Nap",
@@ -2506,7 +2510,8 @@
     {
         "word": "Söv",
         "pos": "verb",
-        "definition": "solve (something), repair, fix, cure"
+        "definition": "solve (something), repair, fix, cure",
+        "keywords": ["solution"]
     },
     {
         "word": "Sac",
