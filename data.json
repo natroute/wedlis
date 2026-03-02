@@ -309,7 +309,7 @@
     {
         "word": "Byf",
         "pos": "preposition",
-        "definition": "before (something)",
+        "definition": "before (something), ago",
         "antonymDefinition": "after (something)",
         "category": "official"
     },
@@ -525,7 +525,7 @@
     {
         "word": "Dök",
         "pos": "noun",
-        "definition": "document, essay, article",
+        "definition": "document, essay, article, page",
         "category": "official"
     },
     {
@@ -619,7 +619,7 @@
         "word": "Dif",
         "pos": "descriptor",
         "definition": "different, differing, contrasting",
-        "antonymDefinition": "same, identical",
+        "antonymDefinition": "same, identical, consistent",
         "category": "official"
     },
     {
@@ -1599,7 +1599,7 @@
     {
         "word": "Koy",
         "pos": "verb",
-        "definition": "contain, include, encompass",
+        "definition": "contain, hold, include, encompass, consist of",
         "keywords": [
             "container",
             "box"
@@ -1609,7 +1609,7 @@
     {
         "word": "Krö",
         "pos": "preposition",
-        "definition": "across",
+        "definition": "across, throughout",
         "category": "official"
     },
     {
@@ -1774,7 +1774,7 @@
     {
         "word": "Lan",
         "pos": "noun",
-        "definition": "land, parcel, lot, country",
+        "definition": "land, parcel, lot, country, state",
         "category": "official"
     },
     {
@@ -1804,6 +1804,7 @@
         "word": "Lek",
         "pos": "noun",
         "definition": "electricity",
+        "keywords": ["power"],
         "category": "official"
     },
     {
@@ -1856,6 +1857,7 @@
         "word": "Lit",
         "pos": "noun",
         "definition": "limit, constraint, the maximum permissible amount",
+        "antonymDefinition": "threshold, the minimum permissible amount",
         "category": "official"
     },
     {
@@ -1881,7 +1883,7 @@
         "word": "Lrn",
         "pos": "verb",
         "definition": "learn, study, research",
-        "antonymDefinition": "forget",
+        "antonymDefinition": "forget (how to do something)",
         "category": "official"
     },
     {
@@ -2274,8 +2276,9 @@
     {
         "word": "Nic",
         "pos": "verb",
-        "definition": "interest (someone), be interesting to, fascinate",
+        "definition": "interest (someone), fascinate",
         "antonymDefinition": "disinterest (someone)",
+        "keywords": ["interesting", "lame"],
         "category": "official"
     },
     {
@@ -2316,6 +2319,7 @@
         "word": "Nos",
         "pos": "verb",
         "definition": "notice, become aware of",
+        "antonymDefinition": "overlook, miss",
         "category": "official"
     },
     {
@@ -2580,6 +2584,7 @@
         "word": "Plw",
         "pos": "noun",
         "definition": "place, position, region, area, location, point",
+        "keywords": ["site", "website"],
         "category": "official"
     },
     {
@@ -3869,6 +3874,7 @@
         "word": "Vwn",
         "pos": "noun",
         "definition": "oven, stove, grill",
+        "keywords": ["cook", "bake"],
         "category": "official"
     },
     {
@@ -3995,10 +4001,13 @@
     {
         "word": "Win",
         "pos": "verb",
-        "definition": "win (a competition), be victorious in, succeed at",
+        "definition": "win (a competition), succeed at",
         "antonymDefinition": "lose (a competition), fail at",
         "keywords": [
-            "success"
+            "victory",
+            "loss",
+            "success",
+            "failure"
         ],
         "category": "official"
     },
