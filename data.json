@@ -1,76 +1,5 @@
 [
     {
-        "word": "Ðan",
-        "pos": "preposition",
-        "definition": "than, relative to, with respect to, in comparison with",
-        "category": "official"
-    },
-    {
-        "word": "Ðat",
-        "pos": "descriptor",
-        "definition": "that (a more distant specific one)",
-        "keywords": [
-            "he",
-            "she",
-            "they",
-            "it",
-            "3rd person",
-            "third person"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Ðeq",
-        "pos": "verb",
-        "definition": "thank (for something)",
-        "category": "official"
-    },
-    {
-        "word": "Ðis",
-        "pos": "descriptor",
-        "definition": "this (a close specific one)",
-        "category": "official"
-    },
-    {
-        "word": "Ðor",
-        "pos": "descriptor",
-        "definition": "other, another",
-        "seeAlso": [
-            "Dif"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Ðyt",
-        "pos": "descriptor",
-        "definition": "the (a specific one)",
-        "keywords": [
-            "definite"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Böd",
-        "pos": "noun",
-        "definition": "body",
-        "category": "official"
-    },
-    {
-        "word": "Böj",
-        "pos": "noun",
-        "definition": "object, item",
-        "keywords": [
-            "inanimate"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Böl",
-        "pos": "noun",
-        "definition": "ball, sphere",
-        "category": "official"
-    },
-    {
         "word": "Bag",
         "pos": "noun",
         "definition": "bag, purse, sack",
@@ -147,16 +76,16 @@
         "category": "official"
     },
     {
+        "word": "Ble",
+        "pos": "descriptor",
+        "definition": "blank, bare, bald",
+        "category": "official"
+    },
+    {
         "word": "Blö",
         "pos": "verb",
         "definition": "explode (something), blast, detonate, pop, burst",
         "antonymDefinition": "implode",
-        "category": "official"
-    },
-    {
-        "word": "Ble",
-        "pos": "descriptor",
-        "definition": "blank, bare, bald",
         "category": "official"
     },
     {
@@ -177,9 +106,30 @@
         "category": "official"
     },
     {
+        "word": "Böd",
+        "pos": "noun",
+        "definition": "body",
+        "category": "official"
+    },
+    {
+        "word": "Böj",
+        "pos": "noun",
+        "definition": "object, item",
+        "keywords": [
+            "inanimate"
+        ],
+        "category": "official"
+    },
+    {
         "word": "Bok",
         "pos": "noun",
         "definition": "block, rectangular prism (a solid geometric object)",
+        "category": "official"
+    },
+    {
+        "word": "Böl",
+        "pos": "noun",
+        "definition": "ball, sphere",
         "category": "official"
     },
     {
@@ -195,12 +145,6 @@
         "category": "official"
     },
     {
-        "word": "Brð",
-        "pos": "verb",
-        "definition": "breathe (air), inhale, exhale, sigh, gasp",
-        "category": "official"
-    },
-    {
         "word": "Brc",
         "pos": "verb",
         "definition": "brush (hair), comb, broom",
@@ -210,6 +154,12 @@
         "word": "Brd",
         "pos": "noun",
         "definition": "bird",
+        "category": "official"
+    },
+    {
+        "word": "Brð",
+        "pos": "verb",
+        "definition": "breathe (air), inhale, exhale, sigh, gasp",
         "category": "official"
     },
     {
@@ -352,26 +302,6 @@
         "category": "official"
     },
     {
-        "word": "Cöl",
-        "pos": "descriptor",
-        "definition": "all, every, each, both",
-        "antonymDefinition": "none, neither",
-        "category": "official"
-    },
-    {
-        "word": "Cön",
-        "pos": "preposition",
-        "definition": "on something, on top of, supported by",
-        "antonymDefinition": "off of something",
-        "category": "official"
-    },
-    {
-        "word": "Cöp",
-        "pos": "noun",
-        "definition": "shop, store",
-        "category": "official"
-    },
-    {
         "word": "Cak",
         "pos": "verb",
         "copula": true,
@@ -438,9 +368,35 @@
         "category": "official"
     },
     {
+        "word": "Cit",
+        "pos": "noun",
+        "definition": "shit",
+        "category": "semiOfficial"
+    },
+    {
+        "word": "Cöl",
+        "pos": "descriptor",
+        "definition": "all, every, each, both",
+        "antonymDefinition": "none, neither",
+        "category": "official"
+    },
+    {
         "word": "Con",
         "pos": "noun",
         "definition": "ocean, sea",
+        "category": "official"
+    },
+    {
+        "word": "Cön",
+        "pos": "preposition",
+        "definition": "on something, on top of, supported by",
+        "antonymDefinition": "off of something",
+        "category": "official"
+    },
+    {
+        "word": "Cöp",
+        "pos": "noun",
+        "definition": "shop, store",
         "category": "official"
     },
     {
@@ -514,38 +470,36 @@
         "category": "official"
     },
     {
-        "word": "Dög",
-        "pos": "noun",
-        "definition": "dog",
-        "keywords": [
-            "wolf"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Dök",
-        "pos": "noun",
-        "definition": "document, essay, article, page",
-        "category": "official"
-    },
-    {
-        "word": "Döl",
-        "pos": "noun",
-        "definition": "dollar",
-        "category": "official"
-    },
-    {
-        "word": "Döm",
-        "pos": "descriptor",
-        "definition": "automatic, with no external intervention",
-        "antonymDefinition": "manual, operating with external intervention",
-        "category": "official"
+        "word": "Dam",
+        "pos": "verb",
+        "definition": "damn",
+        "category": "semiOfficial"
     },
     {
         "word": "Dan",
         "pos": "verb",
         "definition": "understand, comprehend",
         "antonymDefinition": "be confused by, misunderstand",
+        "category": "official"
+    },
+    {
+        "word": "Ðan",
+        "pos": "preposition",
+        "definition": "than, relative to, with respect to, in comparison with",
+        "category": "official"
+    },
+    {
+        "word": "Ðat",
+        "pos": "descriptor",
+        "definition": "that (a more distant specific one)",
+        "keywords": [
+            "he",
+            "she",
+            "they",
+            "it",
+            "3rd person",
+            "third person"
+        ],
         "category": "official"
     },
     {
@@ -575,6 +529,12 @@
         "word": "Dem",
         "pos": "verb",
         "definition": "demand (something), request, order, command",
+        "category": "official"
+    },
+    {
+        "word": "Ðeq",
+        "pos": "verb",
+        "definition": "thank (for something)",
         "category": "official"
     },
     {
@@ -642,6 +602,12 @@
         "category": "official"
     },
     {
+        "word": "Ðis",
+        "pos": "descriptor",
+        "definition": "this (a close specific one)",
+        "category": "official"
+    },
+    {
         "word": "Div",
         "pos": "verb",
         "definition": "divide (something), split, distribute",
@@ -662,9 +628,46 @@
         "category": "official"
     },
     {
+        "word": "Dög",
+        "pos": "noun",
+        "definition": "dog",
+        "keywords": [
+            "wolf"
+        ],
+        "category": "official"
+    },
+    {
+        "word": "Dök",
+        "pos": "noun",
+        "definition": "document, essay, article, page",
+        "category": "official"
+    },
+    {
+        "word": "Döl",
+        "pos": "noun",
+        "definition": "dollar",
+        "category": "official"
+    },
+    {
+        "word": "Döm",
+        "pos": "descriptor",
+        "definition": "automatic, with no external intervention",
+        "antonymDefinition": "manual, operating with external intervention",
+        "category": "official"
+    },
+    {
         "word": "Dor",
         "pos": "noun",
         "definition": "door, gate",
+        "category": "official"
+    },
+    {
+        "word": "Ðor",
+        "pos": "descriptor",
+        "definition": "other, another",
+        "seeAlso": [
+            "Dif"
+        ],
         "category": "official"
     },
     {
@@ -700,16 +703,12 @@
         "category": "official"
     },
     {
-        "word": "Fön",
+        "word": "Ðyt",
         "pos": "descriptor",
-        "definition": "often, frequent, occupational, as a job, routinely, as the primary purpose, as a tool for",
-        "antonymDefinition": "rarely, infrequent",
-        "category": "official"
-    },
-    {
-        "word": "Fös",
-        "pos": "noun",
-        "definition": "office",
+        "definition": "the (a specific one)",
+        "keywords": [
+            "definite"
+        ],
         "category": "official"
     },
     {
@@ -812,17 +811,17 @@
         "category": "official"
     },
     {
-        "word": "Flö",
-        "pos": "descriptor",
-        "definition": "flat, even, smooth",
-        "antonymDefinition": "rough, bumpy",
-        "category": "official"
-    },
-    {
         "word": "Flo",
         "pos": "noun",
         "definition": "floor, ground",
         "antonymDefinition": "ceiling",
+        "category": "official"
+    },
+    {
+        "word": "Flö",
+        "pos": "descriptor",
+        "definition": "flat, even, smooth",
+        "antonymDefinition": "rough, bumpy",
         "category": "official"
     },
     {
@@ -862,10 +861,23 @@
         "category": "official"
     },
     {
+        "word": "Fön",
+        "pos": "descriptor",
+        "definition": "often, frequent, occupational, as a job, routinely, as the primary purpose, as a tool for",
+        "antonymDefinition": "rarely, infrequent",
+        "category": "official"
+    },
+    {
         "word": "For",
         "pos": "preposition",
         "definition": "for, intended for, for the purpose of, to, in favor of, so that, in order to",
         "antonymDefinition": "against",
+        "category": "official"
+    },
+    {
+        "word": "Fös",
+        "pos": "noun",
+        "definition": "office",
         "category": "official"
     },
     {
@@ -914,6 +926,12 @@
         "definition": "free, unrestricted",
         "antonymDefinition": "constrained, restricted",
         "category": "official"
+    },
+    {
+        "word": "Fuk",
+        "pos": "verb",
+        "definition": "fuck",
+        "category": "semiOfficial"
     },
     {
         "word": "Ful",
@@ -997,13 +1015,6 @@
         "category": "official"
     },
     {
-        "word": "Gör",
-        "pos": "noun",
-        "definition": "garbage, waste, trash",
-        "antonymDefinition": "treasure, something valuable",
-        "category": "official"
-    },
-    {
         "word": "Gal",
         "pos": "noun",
         "definition": "gallon",
@@ -1067,21 +1078,28 @@
         "category": "official"
     },
     {
+        "word": "Gör",
+        "pos": "noun",
+        "definition": "garbage, waste, trash",
+        "antonymDefinition": "treasure, something valuable",
+        "category": "official"
+    },
+    {
         "word": "Gos",
         "pos": "noun",
         "definition": "ghost, spirit",
         "category": "official"
     },
     {
-        "word": "Grö",
-        "pos": "noun",
-        "definition": "grass",
-        "category": "official"
-    },
-    {
         "word": "Gre",
         "pos": "descriptor",
         "definition": "gray/grey",
+        "category": "official"
+    },
+    {
+        "word": "Grö",
+        "pos": "noun",
+        "definition": "grass",
         "category": "official"
     },
     {
@@ -1133,16 +1151,6 @@
         "pos": "verb",
         "definition": "greet (someone), welcome",
         "antonymDefinition": "say goodbye to, bid farewell to",
-        "category": "official"
-    },
-    {
-        "word": "Höl",
-        "pos": "descriptor",
-        "definition": "hollow, with an empty cavity",
-        "antonymDefinition": "filled, solid",
-        "keywords": [
-            "hole"
-        ],
         "category": "official"
     },
     {
@@ -1233,6 +1241,16 @@
         "category": "official"
     },
     {
+        "word": "Höl",
+        "pos": "descriptor",
+        "definition": "hollow, with an empty cavity",
+        "antonymDefinition": "filled, solid",
+        "keywords": [
+            "hole"
+        ],
+        "category": "official"
+    },
+    {
         "word": "Hom",
         "pos": "noun",
         "definition": "home",
@@ -1279,30 +1297,6 @@
         "category": "official"
     },
     {
-        "word": "Jöb",
-        "pos": "noun",
-        "definition": "job, occupation, profession",
-        "keywords": [
-            "work"
-        ],
-        "seeAlso": [
-            "Tas"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Jöp",
-        "pos": "verb",
-        "definition": "drop (something), make fall",
-        "category": "official"
-    },
-    {
-        "word": "Jör",
-        "pos": "verb",
-        "definition": "draw (a picture), paint",
-        "category": "official"
-    },
-    {
         "word": "Jak",
         "pos": "descriptor",
         "definition": "actual, real, existing",
@@ -1342,9 +1336,33 @@
         "category": "official"
     },
     {
+        "word": "Jöb",
+        "pos": "noun",
+        "definition": "job, occupation, profession",
+        "keywords": [
+            "work"
+        ],
+        "seeAlso": [
+            "Tas"
+        ],
+        "category": "official"
+    },
+    {
+        "word": "Jöp",
+        "pos": "verb",
+        "definition": "drop (something), make fall",
+        "category": "official"
+    },
+    {
         "word": "Jor",
         "pos": "preposition",
         "definition": "or, either one",
+        "category": "official"
+    },
+    {
+        "word": "Jör",
+        "pos": "verb",
+        "definition": "draw (a picture), paint",
         "category": "official"
     },
     {
@@ -1369,55 +1387,6 @@
         "word": "Jws",
         "pos": "noun",
         "definition": "juice",
-        "category": "official"
-    },
-    {
-        "word": "Köd",
-        "pos": "noun",
-        "definition": "quality, trait, property",
-        "category": "official"
-    },
-    {
-        "word": "Köf",
-        "pos": "noun",
-        "definition": "coffee",
-        "category": "official"
-    },
-    {
-        "word": "Köm",
-        "pos": "descriptor",
-        "definition": "calm, relaxed",
-        "antonymDefinition": "nervous, anxious, worried, stressed",
-        "keywords": [
-            "worry",
-            "stress",
-            "anxiety"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Köp",
-        "pos": "verb",
-        "definition": "copy (something), make one more, duplicate, multiply",
-        "category": "official"
-    },
-    {
-        "word": "Kör",
-        "pos": "noun",
-        "definition": "car",
-        "category": "official"
-    },
-    {
-        "word": "Köx",
-        "pos": "noun",
-        "definition": "cloth, fabric",
-        "category": "official"
-    },
-    {
-        "word": "Köz",
-        "pos": "verb",
-        "definition": "cause (something), make happen, be the reason for, so, therefore",
-        "antonymDefinition": "prevent, stop from happening",
         "category": "official"
     },
     {
@@ -1540,15 +1509,15 @@
         "category": "official"
     },
     {
-        "word": "Klö",
-        "pos": "noun",
-        "definition": "cloud, smoke",
-        "category": "official"
-    },
-    {
         "word": "Klo",
         "pos": "noun",
         "definition": "clothes, for wearing",
+        "category": "official"
+    },
+    {
+        "word": "Klö",
+        "pos": "noun",
+        "definition": "cloud, smoke",
         "category": "official"
     },
     {
@@ -1572,15 +1541,45 @@
         "category": "official"
     },
     {
+        "word": "Köd",
+        "pos": "noun",
+        "definition": "quality, trait, property",
+        "category": "official"
+    },
+    {
+        "word": "Köf",
+        "pos": "noun",
+        "definition": "coffee",
+        "category": "official"
+    },
+    {
         "word": "Kol",
         "pos": "verb",
         "definition": "be equal to, be the same as, be identical to",
         "category": "official"
     },
     {
+        "word": "Köm",
+        "pos": "descriptor",
+        "definition": "calm, relaxed",
+        "antonymDefinition": "nervous, anxious, worried, stressed",
+        "keywords": [
+            "worry",
+            "stress",
+            "anxiety"
+        ],
+        "category": "official"
+    },
+    {
         "word": "Kon",
         "pos": "verb",
         "definition": "count (something), find the quantity of",
+        "category": "official"
+    },
+    {
+        "word": "Köp",
+        "pos": "verb",
+        "definition": "copy (something), make one more, duplicate, multiply",
         "category": "official"
     },
     {
@@ -1591,9 +1590,21 @@
         "category": "official"
     },
     {
+        "word": "Kör",
+        "pos": "noun",
+        "definition": "car",
+        "category": "official"
+    },
+    {
         "word": "Kot",
         "pos": "noun",
         "definition": "coat, jacket (clothes for cold weather)",
+        "category": "official"
+    },
+    {
+        "word": "Köx",
+        "pos": "noun",
+        "definition": "cloth, fabric",
         "category": "official"
     },
     {
@@ -1607,9 +1618,10 @@
         "category": "official"
     },
     {
-        "word": "Krö",
-        "pos": "preposition",
-        "definition": "across, throughout",
+        "word": "Köz",
+        "pos": "verb",
+        "definition": "cause (something), make happen, be the reason for, so, therefore",
+        "antonymDefinition": "prevent, stop from happening",
         "category": "official"
     },
     {
@@ -1623,6 +1635,12 @@
         "pos": "descriptor",
         "definition": "crazy, mad, wild, insane",
         "antonymDefinition": "tame, docile, domestic, sane, normal",
+        "category": "official"
+    },
+    {
+        "word": "Krö",
+        "pos": "preposition",
+        "definition": "across, throughout",
         "category": "official"
     },
     {
@@ -1707,58 +1725,6 @@
         "category": "official"
     },
     {
-        "word": "Lög",
-        "pos": "noun",
-        "definition": "logic, reason, sense",
-        "category": "official"
-    },
-    {
-        "word": "Lök",
-        "pos": "verb",
-        "definition": "lock (something)",
-        "antonymDefinition": "unlock (something)",
-        "category": "official"
-    },
-    {
-        "word": "Löm",
-        "pos": "descriptor",
-        "definition": "almost, nearly",
-        "category": "official"
-    },
-    {
-        "word": "Löq",
-        "pos": "descriptor",
-        "definition": "long, with a great length, tall",
-        "antonymDefinition": "short, brief",
-        "category": "official"
-    },
-    {
-        "word": "Lör",
-        "pos": "descriptor",
-        "definition": "large, big, great, high (of an amount)",
-        "antonymDefinition": "small, little, low",
-        "category": "official"
-    },
-    {
-        "word": "Lös",
-        "pos": "descriptor",
-        "definition": "also, too, in addition",
-        "category": "official"
-    },
-    {
-        "word": "Löt",
-        "pos": "descriptor",
-        "definition": "a lot of, many",
-        "antonymDefinition": "few, not a lot",
-        "category": "official"
-    },
-    {
-        "word": "Löv",
-        "pos": "noun",
-        "definition": "law, rule, regulation",
-        "category": "official"
-    },
-    {
         "word": "Lad",
         "pos": "descriptor",
         "definition": "loud, noisy",
@@ -1804,7 +1770,9 @@
         "word": "Lek",
         "pos": "noun",
         "definition": "electricity",
-        "keywords": ["power"],
+        "keywords": [
+            "power"
+        ],
         "category": "official"
     },
     {
@@ -1874,9 +1842,61 @@
         "category": "official"
     },
     {
+        "word": "Lög",
+        "pos": "noun",
+        "definition": "logic, reason, sense",
+        "category": "official"
+    },
+    {
         "word": "Lok",
         "pos": "noun",
         "definition": "lake, pond",
+        "category": "official"
+    },
+    {
+        "word": "Lök",
+        "pos": "verb",
+        "definition": "lock (something)",
+        "antonymDefinition": "unlock (something)",
+        "category": "official"
+    },
+    {
+        "word": "Löm",
+        "pos": "descriptor",
+        "definition": "almost, nearly",
+        "category": "official"
+    },
+    {
+        "word": "Löq",
+        "pos": "descriptor",
+        "definition": "long, with a great length, tall",
+        "antonymDefinition": "short, brief",
+        "category": "official"
+    },
+    {
+        "word": "Lör",
+        "pos": "descriptor",
+        "definition": "large, big, great, high (of an amount)",
+        "antonymDefinition": "small, little, low",
+        "category": "official"
+    },
+    {
+        "word": "Lös",
+        "pos": "descriptor",
+        "definition": "also, too, in addition",
+        "category": "official"
+    },
+    {
+        "word": "Löt",
+        "pos": "descriptor",
+        "definition": "a lot of, many",
+        "antonymDefinition": "few, not a lot",
+        "category": "official"
+    },
+    {
+        "word": "Löv",
+        "pos": "noun",
+        "definition": "law, rule, regulation",
         "category": "official"
     },
     {
@@ -1946,24 +1966,6 @@
         "pos": "noun",
         "definition": "light, either light itself or a light producing source",
         "antonymDefinition": "darkness, shadow, shade",
-        "category": "official"
-    },
-    {
-        "word": "Mök",
-        "pos": "verb",
-        "definition": "mark (something), designate, sign",
-        "category": "official"
-    },
-    {
-        "word": "Möl",
-        "pos": "noun",
-        "definition": "mollusk, soft-bellied creature, snail, octopus, squid",
-        "category": "official"
-    },
-    {
-        "word": "Möt",
-        "pos": "noun",
-        "definition": "market, economy",
         "category": "official"
     },
     {
@@ -2100,6 +2102,18 @@
         "category": "official"
     },
     {
+        "word": "Mök",
+        "pos": "verb",
+        "definition": "mark (something), designate, sign",
+        "category": "official"
+    },
+    {
+        "word": "Möl",
+        "pos": "noun",
+        "definition": "mollusk, soft-bellied creature, snail, octopus, squid",
+        "category": "official"
+    },
+    {
         "word": "Mon",
         "pos": "descriptor",
         "definition": "main, chief, principal, primary",
@@ -2124,6 +2138,12 @@
         "pos": "descriptor",
         "definition": "most, the majority, almost all",
         "antonymDefinition": "the minority, almost none",
+        "category": "official"
+    },
+    {
+        "word": "Möt",
+        "pos": "noun",
+        "definition": "market, economy",
         "category": "official"
     },
     {
@@ -2194,18 +2214,6 @@
         "category": "official"
     },
     {
-        "word": "Nöb",
-        "pos": "noun",
-        "definition": "knob, handle, for holding or for opening a door",
-        "category": "official"
-    },
-    {
-        "word": "Nöt",
-        "pos": "descriptor",
-        "definition": "not (makes a word false); no (in response to a question)",
-        "category": "official"
-    },
-    {
         "word": "Nam",
         "pos": "noun",
         "definition": "animal, creature, beast, monster",
@@ -2216,6 +2224,12 @@
         "pos": "noun",
         "definition": "napkin, tissue",
         "category": "official"
+    },
+    {
+        "word": "Neb",
+        "pos": "descriptor",
+        "definition": "non-binary, gender non-conforming",
+        "category": "neologisms"
     },
     {
         "word": "Nec",
@@ -2278,7 +2292,10 @@
         "pos": "verb",
         "definition": "interest (someone), fascinate",
         "antonymDefinition": "disinterest (someone)",
-        "keywords": ["interesting", "lame"],
+        "keywords": [
+            "interesting",
+            "lame"
+        ],
         "category": "official"
     },
     {
@@ -2294,6 +2311,12 @@
         "keywords": [
             "9"
         ],
+        "category": "official"
+    },
+    {
+        "word": "Nöb",
+        "pos": "noun",
+        "definition": "knob, handle, for holding or for opening a door",
         "category": "official"
     },
     {
@@ -2326,6 +2349,12 @@
         "word": "Not",
         "pos": "noun",
         "definition": "note, a reminder for someone",
+        "category": "official"
+    },
+    {
+        "word": "Nöt",
+        "pos": "descriptor",
+        "definition": "not (makes a word false); no (in response to a question)",
         "category": "official"
     },
     {
@@ -2412,44 +2441,6 @@
         "pos": "descriptor",
         "definition": "nice, kind",
         "antonymDefinition": "mean, rude, unkind, hostile, cruel",
-        "category": "official"
-    },
-    {
-        "word": "Pök",
-        "pos": "noun",
-        "definition": "project",
-        "category": "official"
-    },
-    {
-        "word": "Pöl",
-        "pos": "preposition",
-        "definition": "parallel to, along",
-        "antonymDefinition": "perpendicular to",
-        "category": "official"
-    },
-    {
-        "word": "Pön",
-        "pos": "noun",
-        "definition": "horse, pony",
-        "category": "official"
-    },
-    {
-        "word": "Pöp",
-        "pos": "descriptor",
-        "definition": "popular, cool, famous, well-known",
-        "antonymDefinition": "unpopular, obscure, little-known",
-        "category": "official"
-    },
-    {
-        "word": "Pör",
-        "pos": "noun",
-        "definition": "part, piece, component, section, division, region",
-        "category": "official"
-    },
-    {
-        "word": "Pös",
-        "pos": "noun",
-        "definition": "pasta",
         "category": "official"
     },
     {
@@ -2563,12 +2554,6 @@
         "category": "official"
     },
     {
-        "word": "Plö",
-        "pos": "verb",
-        "definition": "plan, scheme, draft",
-        "category": "official"
-    },
-    {
         "word": "Ple",
         "pos": "verb",
         "definition": "play (a game or instrument)",
@@ -2581,10 +2566,19 @@
         "category": "official"
     },
     {
+        "word": "Plö",
+        "pos": "verb",
+        "definition": "plan, scheme, draft",
+        "category": "official"
+    },
+    {
         "word": "Plw",
         "pos": "noun",
         "definition": "place, position, region, area, location, point",
-        "keywords": ["site", "website"],
+        "keywords": [
+            "site",
+            "website"
+        ],
         "category": "official"
     },
     {
@@ -2613,12 +2607,25 @@
         "category": "official"
     },
     {
+        "word": "Pök",
+        "pos": "noun",
+        "definition": "project",
+        "category": "official"
+    },
+    {
         "word": "Pol",
         "pos": "noun",
         "definition": "police, security",
         "seeAlso": [
             "Dej"
         ],
+        "category": "official"
+    },
+    {
+        "word": "Pöl",
+        "pos": "preposition",
+        "definition": "parallel to, along",
+        "antonymDefinition": "perpendicular to",
         "category": "official"
     },
     {
@@ -2632,15 +2639,40 @@
         "category": "official"
     },
     {
+        "word": "Pön",
+        "pos": "noun",
+        "definition": "horse, pony",
+        "category": "official"
+    },
+    {
+        "word": "Pöp",
+        "pos": "descriptor",
+        "definition": "popular, cool, famous, well-known",
+        "antonymDefinition": "unpopular, obscure, little-known",
+        "category": "official"
+    },
+    {
         "word": "Por",
         "pos": "verb",
         "definition": "pour (a substance), spill",
         "category": "official"
     },
     {
+        "word": "Pör",
+        "pos": "noun",
+        "definition": "part, piece, component, section, division, region",
+        "category": "official"
+    },
+    {
         "word": "Pos",
         "pos": "noun",
         "definition": "price, cost",
+        "category": "official"
+    },
+    {
+        "word": "Pös",
+        "pos": "noun",
+        "definition": "pasta",
         "category": "official"
     },
     {
@@ -2661,19 +2693,6 @@
         "pos": "noun",
         "definition": "prize, reward, award, bonus",
         "antonymDefinition": "punishment, penalty",
-        "category": "official"
-    },
-    {
-        "word": "Prö",
-        "pos": "descriptor",
-        "definition": "probable, likely",
-        "antonymDefinition": "improbable, unlikely",
-        "keywords": [
-            "chance",
-            "probability",
-            "luck",
-            "risk"
-        ],
         "category": "official"
     },
     {
@@ -2699,6 +2718,19 @@
         "antonymDefinition": "amateur, inexperienced",
         "keywords": [
             "good at"
+        ],
+        "category": "official"
+    },
+    {
+        "word": "Prö",
+        "pos": "descriptor",
+        "definition": "probable, likely",
+        "antonymDefinition": "improbable, unlikely",
+        "keywords": [
+            "chance",
+            "probability",
+            "luck",
+            "risk"
         ],
         "category": "official"
     },
@@ -2785,31 +2817,6 @@
         "word": "Pyt",
         "pos": "noun",
         "definition": "pizza",
-        "category": "official"
-    },
-    {
-        "word": "Röd",
-        "pos": "descriptor",
-        "definition": "ready, prepared",
-        "antonymDefinition": "unprepared",
-        "category": "official"
-    },
-    {
-        "word": "Rök",
-        "pos": "noun",
-        "definition": "rock, stone",
-        "category": "official"
-    },
-    {
-        "word": "Röt",
-        "pos": "noun",
-        "definition": "art",
-        "category": "official"
-    },
-    {
-        "word": "Röx",
-        "pos": "noun",
-        "definition": "arthropod, animal with exoskeleton, insect, crustacean, bug",
         "category": "official"
     },
     {
@@ -2912,6 +2919,13 @@
         "category": "official"
     },
     {
+        "word": "Röd",
+        "pos": "descriptor",
+        "definition": "ready, prepared",
+        "antonymDefinition": "unprepared",
+        "category": "official"
+    },
+    {
         "word": "Rog",
         "pos": "verb",
         "definition": "organize (something), sort, make neat",
@@ -2919,9 +2933,21 @@
         "category": "official"
     },
     {
+        "word": "Rök",
+        "pos": "noun",
+        "definition": "rock, stone",
+        "category": "official"
+    },
+    {
         "word": "Ron",
         "pos": "noun",
         "definition": "range, span, length, interval",
+        "category": "official"
+    },
+    {
+        "word": "Röt",
+        "pos": "noun",
+        "definition": "art",
         "category": "official"
     },
     {
@@ -2935,6 +2961,12 @@
         "word": "Rox",
         "pos": "noun",
         "definition": "Earth (the planet)",
+        "category": "official"
+    },
+    {
+        "word": "Röx",
+        "pos": "noun",
+        "definition": "arthropod, animal with exoskeleton, insect, crustacean, bug",
         "category": "official"
     },
     {
@@ -3019,58 +3051,6 @@
         "word": "Rys",
         "pos": "noun",
         "definition": "resource, nutrient, supply",
-        "category": "official"
-    },
-    {
-        "word": "Söf",
-        "pos": "descriptor",
-        "definition": "soft, flexible",
-        "antonymDefinition": "hard, firm, stiff, rigid, inflexible",
-        "category": "official"
-    },
-    {
-        "word": "Sök",
-        "pos": "noun",
-        "definition": "sock",
-        "category": "official"
-    },
-    {
-        "word": "Söl",
-        "pos": "noun",
-        "definition": "solid (a state of matter)",
-        "category": "official"
-    },
-    {
-        "word": "Sön",
-        "pos": "verb",
-        "definition": "stand (on a surface)",
-        "category": "official"
-    },
-    {
-        "word": "Sör",
-        "pos": "noun",
-        "definition": "stair, step",
-        "category": "official"
-    },
-    {
-        "word": "Sös",
-        "pos": "noun",
-        "definition": "sauce",
-        "category": "official"
-    },
-    {
-        "word": "Söt",
-        "pos": "noun",
-        "definition": "salt",
-        "category": "official"
-    },
-    {
-        "word": "Söv",
-        "pos": "verb",
-        "definition": "solve (something), repair, fix, cure",
-        "keywords": [
-            "solution"
-        ],
         "category": "official"
     },
     {
@@ -3300,6 +3280,31 @@
         "category": "official"
     },
     {
+        "word": "Söf",
+        "pos": "descriptor",
+        "definition": "soft, flexible",
+        "antonymDefinition": "hard, firm, stiff, rigid, inflexible",
+        "category": "official"
+    },
+    {
+        "word": "Sök",
+        "pos": "noun",
+        "definition": "sock",
+        "category": "official"
+    },
+    {
+        "word": "Söl",
+        "pos": "noun",
+        "definition": "solid (a state of matter)",
+        "category": "official"
+    },
+    {
+        "word": "Sön",
+        "pos": "verb",
+        "definition": "stand (on a surface)",
+        "category": "official"
+    },
+    {
         "word": "Sop",
         "pos": "noun",
         "definition": "soap",
@@ -3313,9 +3318,36 @@
         "category": "official"
     },
     {
+        "word": "Sör",
+        "pos": "noun",
+        "definition": "stair, step",
+        "category": "official"
+    },
+    {
+        "word": "Sös",
+        "pos": "noun",
+        "definition": "sauce",
+        "category": "official"
+    },
+    {
         "word": "Sot",
         "pos": "noun",
         "definition": "science",
+        "category": "official"
+    },
+    {
+        "word": "Söt",
+        "pos": "noun",
+        "definition": "salt",
+        "category": "official"
+    },
+    {
+        "word": "Söv",
+        "pos": "verb",
+        "definition": "solve (something), repair, fix, cure",
+        "keywords": [
+            "solution"
+        ],
         "category": "official"
     },
     {
@@ -3367,13 +3399,6 @@
         "category": "official"
     },
     {
-        "word": "Stö",
-        "pos": "noun",
-        "definition": "start, beginning, the start of an object or span",
-        "antonymDefinition": "end, the end of an object or span",
-        "category": "official"
-    },
-    {
         "word": "Ste",
         "pos": "verb",
         "definition": "stay (in a group), remain, continue to be",
@@ -3383,6 +3408,13 @@
         "word": "Sto",
         "pos": "noun",
         "definition": "story, tale, rumor",
+        "category": "official"
+    },
+    {
+        "word": "Stö",
+        "pos": "noun",
+        "definition": "start, beginning, the start of an object or span",
+        "antonymDefinition": "end, the end of an object or span",
         "category": "official"
     },
     {
@@ -3506,12 +3538,6 @@
         "category": "official"
     },
     {
-        "word": "Tcö",
-        "pos": "noun",
-        "definition": "chocolate",
-        "category": "official"
-    },
-    {
         "word": "Tce",
         "pos": "verb",
         "definition": "change (something), make different, modify, alter, transform, edit",
@@ -3521,6 +3547,12 @@
         "word": "Tco",
         "pos": "noun",
         "definition": "chair, couch",
+        "category": "official"
+    },
+    {
+        "word": "Tcö",
+        "pos": "noun",
+        "definition": "chocolate",
         "category": "official"
     },
     {
@@ -3723,18 +3755,6 @@
         "category": "official"
     },
     {
-        "word": "Völ",
-        "pos": "descriptor",
-        "definition": "already",
-        "category": "official"
-    },
-    {
-        "word": "Vöt",
-        "pos": "descriptor",
-        "definition": "(modifies a word to the opposite of its meaning)",
-        "category": "official"
-    },
-    {
         "word": "Vak",
         "pos": "noun",
         "definition": "axle, rotor (used in a hinge)",
@@ -3850,12 +3870,24 @@
         "category": "official"
     },
     {
+        "word": "Völ",
+        "pos": "descriptor",
+        "definition": "already",
+        "category": "official"
+    },
+    {
         "word": "Vot",
         "pos": "descriptor",
         "definition": "eight",
         "keywords": [
             "8"
         ],
+        "category": "official"
+    },
+    {
+        "word": "Vöt",
+        "pos": "descriptor",
+        "definition": "(modifies a word to the opposite of its meaning)",
         "category": "official"
     },
     {
@@ -3874,49 +3906,16 @@
         "word": "Vwn",
         "pos": "noun",
         "definition": "oven, stove, grill",
-        "keywords": ["cook", "bake"],
+        "keywords": [
+            "cook",
+            "bake"
+        ],
         "category": "official"
     },
     {
         "word": "Vyn",
         "pos": "descriptor",
         "definition": "even (emphasizes something surprising or extreme)",
-        "category": "official"
-    },
-    {
-        "word": "Wök",
-        "pos": "verb",
-        "definition": "walk (on something)",
-        "category": "official"
-    },
-    {
-        "word": "Wöl",
-        "pos": "noun",
-        "definition": "wall, fence",
-        "category": "official"
-    },
-    {
-        "word": "Wön",
-        "pos": "verb",
-        "definition": "want, wish for, hope for, seek, dream of",
-        "category": "official"
-    },
-    {
-        "word": "Wöt",
-        "pos": "noun",
-        "definition": "water",
-        "keywords": [
-            "ice",
-            "boat",
-            "ship",
-            "swim"
-        ],
-        "category": "official"
-    },
-    {
-        "word": "Weð",
-        "pos": "descriptor",
-        "definition": "whether (expresses the truth of a situation noun)",
         "category": "official"
     },
     {
@@ -3929,6 +3928,12 @@
         "word": "Wed",
         "pos": "noun",
         "definition": "word, term",
+        "category": "official"
+    },
+    {
+        "word": "Weð",
+        "pos": "descriptor",
+        "definition": "whether (expresses the truth of a situation noun)",
         "category": "official"
     },
     {
@@ -4030,12 +4035,6 @@
         "category": "official"
     },
     {
-        "word": "Woð",
-        "pos": "noun",
-        "definition": "weather, climate",
-        "category": "official"
-    },
-    {
         "word": "Wod",
         "pos": "descriptor",
         "definition": "wide",
@@ -4043,9 +4042,27 @@
         "category": "official"
     },
     {
+        "word": "Woð",
+        "pos": "noun",
+        "definition": "weather, climate",
+        "category": "official"
+    },
+    {
+        "word": "Wök",
+        "pos": "verb",
+        "definition": "walk (on something)",
+        "category": "official"
+    },
+    {
         "word": "Wol",
         "pos": "noun",
         "definition": "world",
+        "category": "official"
+    },
+    {
+        "word": "Wöl",
+        "pos": "noun",
+        "definition": "wall, fence",
         "category": "official"
     },
     {
@@ -4060,10 +4077,28 @@
         "category": "official"
     },
     {
+        "word": "Wön",
+        "pos": "verb",
+        "definition": "want, wish for, hope for, seek, dream of",
+        "category": "official"
+    },
+    {
         "word": "Wor",
         "pos": "noun",
         "definition": "war, battle, combat, fight",
         "antonymDefinition": "peace",
+        "category": "official"
+    },
+    {
+        "word": "Wöt",
+        "pos": "noun",
+        "definition": "water",
+        "keywords": [
+            "ice",
+            "boat",
+            "ship",
+            "swim"
+        ],
         "category": "official"
     },
     {
@@ -4234,29 +4269,5 @@
             "0"
         ],
         "category": "official"
-    },
-    {
-        "word": "Cit",
-        "pos": "noun",
-        "definition": "shit",
-        "category": "semiOfficial"
-    },
-    {
-        "word": "Dam",
-        "pos": "verb",
-        "definition": "damn",
-        "category": "semiOfficial"
-    },
-    {
-        "word": "Fuk",
-        "pos": "verb",
-        "definition": "fuck",
-        "category": "semiOfficial"
-    },
-    {
-        "word": "Neb",
-        "pos": "descriptor",
-        "definition": "non-binary, gender non-conforming",
-        "category": "neologisms"
     }
 ]
